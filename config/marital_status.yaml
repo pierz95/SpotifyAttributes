@@ -1,0 +1,30 @@
+#experimental general settings
+'iter': 5
+'verbose': 1
+
+#task properties
+'attribute': 'marital_status'
+
+#set the classifiers to use in the experiment
+'classifiers': {
+  'dummy': False, 
+  'linear': False, 
+  'decisiontree': False,
+  'randomforest': False,
+  'knn': False,
+  'mlp': False,
+  'deepset': True,
+  'graph_deepset': False
+}
+
+
+'use_gpu': False
+
+#deepset config
+'log_dir' : './results/'
+'max_phi_depth': 3
+'max_rho_depth': 3
+'activation': ['relu']
+'lr': [0.01, 0.001, 0.0001]
+'patience': 50
+'max_epochs': 500

@@ -1,0 +1,42 @@
+#experimental general settings
+'iter': 5
+'verbose': 1
+
+#task properties
+'attribute': 'extraversion'
+
+#set the classifiers to use in the experiment
+# 'classifiers': {
+#   'dummy': True, 
+#   'linear': True, 
+#   'decisiontree': True,
+#   'randomforest': True,
+#   'knn': True,
+#   'mlp': True,
+#   'deepset': False,
+#   'graph_deepset': False
+# }
+
+
+'classifiers': {
+  'dummy': False, 
+  'linear': False, 
+  'decisiontree': False,
+  'randomforest': False,
+  'knn': False,
+  'mlp': False,
+  'deepset': True,
+  'graph_deepset': False
+}
+
+
+'use_gpu': False
+
+#deepset config
+'log_dir' : './results/'
+'max_phi_depth': 3
+'max_rho_depth': 3
+'activation': ['relu']
+'lr': [0.01, 0.001, 0.0001]
+'patience': 50
+'max_epochs': 500
