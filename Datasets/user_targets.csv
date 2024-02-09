@@ -1,0 +1,740 @@
+id_owner,gender,age,country,marital_status,live_with,occupation,sport,economic,smoke,alchol,spotify_usage_hours,spotify_usage_years,spotify_premium,extraversion,agreeableness, conscientiousness,neuroticism,openness
+7efq4p950y62qep4257bpy7ks,Male,2,Italy,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,0,1,1,1,1
+stringiminiall._,Female,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,1
+pippospiani,Male,1,Italy,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,2-4 years,No,1,2,1,2,2
+spot.davide,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,0,0,2
+luciapescas04,Female,1,Italy,Relationship,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,No,1,2,1,2,2
+118166876,Male,2,Italy,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,No,0,1,1,0,1
+213lxjntsidopwws6vxoxyvwi,Male,1,Italy,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,0,2,2,0,1
+strwaprwo,Female,2,Italy,Relationship,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,2,1,2,2,1
+49za0g9ccqfcae93rwnrefojz,Male,2,Italy,Single,I live with others,No job,Regularly,Low,No,No,Less than 1 Hour,More than 5 years,No,2,0,1,2,2
+1192377269,Female,2,Italy,Relationship,I live with others,No job,No,High,No,No,Less than 1 Hour,More than 5 years,No,0,1,1,2,2
+1166836632,Male,2,Italy,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,2,2
+11135164078,Female,1,Italy,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,2,1
+21c4w5zzagv6jkgqdg6jzde4y,Other,0,Brazil,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,2,1,1,2
+r806m98hnu2gpdp6dgdx4dih4,Female,1,Italy,Single,I live with others,No job,No,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,2,1
+11159337585,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,2,1
+ntoebp0a4himun21cp553r9ai,Female,1,Other,Relationship,I live with others,Job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,0,1,2,0,1
+smellyaussi,Male,2,United Kingdom,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,1
+asjdammwu2hqr6awnj7oz5esc,Male,1,Philippines,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,Less than 1 year,Yes,0,1,1,2,1
+31vzfekq2n4iacuvi2cwfg75vrii,Female,3,Italy,Single,I live alone,Job,Sometimes,Medium,No,Yes,2-3 Hours,Less than 1 year,Yes,1,2,1,0,2
+michael71801,Male,1,United States,Single,I live with others,No job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,1,1
+31ijk5vjanlzorvahqn72cc72vgu,Male,2,Italy,Relationship,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,0,1,2,1
+texdade,Male,2,Italy,Single,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,0,1,1,2
+31y6av223g6k744gmwva7vfjxbfy,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,1
+21rng4cin4ijnrhgnz3horvtq,Male,2,Italy,Single,I live with others,No job,Regularly,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,1,1
+francescomarchiori,Male,1,Italy,Relationship,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,1,2
+whitelicorice,Male,2,India,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+k8yziug9i7n8x028jhlrgrs0s,Male,1,Other,Single,I live alone,No job,Sometimes,Low,No,No,2-3 Hours,2-4 years,No,0,2,1,1,2
+justdutch101,Male,2,Other,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,1,2
+1966bens,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,0,2,2,0,0
+jubnie,Male,1,Other,Relationship,I live with others,No job,Regularly,Low,No,Yes,4-5 Hours,2-4 years,Yes,1,2,1,0,1
+deekshapandey,Female,1,Australia,Single,I live with others,No job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,1,1
+zz19bwrl8ssw42i6dw7msdz18,Male,1,Italy,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,0,1,2
+11122945656,Male,2,Other,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+11133509912,Female,2,Other,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,2,1,1,0,2
+15j51l79xz7xhnq44cjs9oh2a,Female,2,Other,Single,I live alone,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,2,1,2
+k0s136jmftkbp79dy3t8l5d37,Male,1,Germany,Single,I live with others,No job,Regularly,High,No,Yes,Less than 1 Hour,2-4 years,Yes,1,1,1,0,2
+adler_att,Male,1,Brazil,Single,I live with others,Job,No,High,No,No,Less than 1 Hour,More than 5 years,Yes,0,2,1,1,1
+tunacan420,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,1,2,1,0,0
+1212940714,Male,2,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,2,0,1
+dbash56,Male,1,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,1,2
+tszmg3nckonijow8rok6xr7en,Female,2,Other,Relationship,I live alone,Job,No,High,No,Yes,4-5 Hours,2-4 years,No,0,1,1,0,1
+ikwauhpqy6ow4l5z800dw4kgg,Other,0,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+rrtbico1gja82suripd959gze,Male,1,Other,Relationship,I live with others,No job,Regularly,High,No,Yes,More than 6 Hours,2-4 years,No,1,0,1,0,2
+11154973263,Male,3,Canada,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,0,2
+florisnijdam,Male,3,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,0,1
+pci8depchel3qxmglppksrbjp,Male,0,United States,Single,I live with others,No job,No,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,2
+l72ynfidy6shq52f1twwr05jn,Male,2,Other,Single,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,2,2
+o6bf0ozyga8qmvqfros9yt8zb,Male,1,United States,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,0,1,0,0,1
+6nnkf6rq2houiyggkxyfn3ct2,Male,1,Canada,Relationship,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,Yes,1,2,1,1,1
+d7chirbx4p0hki4utas8e5027,Female,1,Other,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,1,2,1,1,2
+badams92,Male,2,United States,Single,I live with others,Job,No,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,1
+francesca_sorbo,Female,2,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,2,1,2
+j4xn8yht7548xq7ged0idvwmz,Male,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,0,2,1,2,2
+31v3q2q7a7lju757643uoprtwd4m,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,1,1
+miguel_._orozco,Male,1,United States,Single,I live with others,Job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,0,2,2,2,0
+dhq5k5i7wrnjoj8kyyppvxqb5,Male,2,Germany,Single,I live alone,Job,Regularly,High,No,No,4-5 Hours,More than 5 years,No,2,2,1,0,2
+1230967393,Female,3,Other,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,2
+12133626941,Male,1,United States,Single,I live with others,No job,No,Low,Yes,No,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+anmanbbullard,Male,2,Australia,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,2,0
+ivntps,Male,1,Philippines,Relationship,I live with others,No job,Regularly,High,Yes,No,2-3 Hours,More than 5 years,Yes,1,1,2,1,1
+21ukeqcpw77rec35odt6jtopy,Male,1,United Kingdom,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,0,2
+hohlbaumloch,Male,2,Germany,Relationship,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+1258493453,Male,3,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,2,1,1,1
+sq4qetwrtngjglyyrhr1to535,Male,1,Other,Single,I live with others,No job,Regularly,Low,Yes,Yes,Less than 1 Hour,2-4 years,No,0,1,1,1,2
+zischler25,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,2-4 years,Yes,0,2,1,1,2
+ydrichardchen,Male,2,Other,Single,I live alone,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,1
+auknl87zvxell0agqrcwcd9ug,Male,0,United Kingdom,Relationship,I live with others,No job,Sometimes,High,No,No,2-3 Hours,Less than 1 year,Yes,0,1,1,1,1
+antykoncepcja,Male,2,Other,Single,I live alone,Job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,2
+shaq458,Male,1,United Kingdom,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,More than 5 years,No,1,2,1,2,0
+1149603041,Male,2,Other,Single,I live alone,Job,Regularly,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+1222768171,Male,2,Philippines,Relationship,I live with others,Job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+9jga2xg9e6rammd1bmdp0tgok,Male,1,Germany,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,No,0,2,1,1,1
+1238691476,Male,3,Australia,Single,I live with others,Job,No,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,0,1
+hkse8kwgkrvpiaraysxx4ji2e,Male,0,India,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,1,1,1
+gb78igm01pt8co0m7vue1ve3y,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,Less than 1 year,No,0,2,0,2,1
+m9ant,Male,1,Other,Single,I live alone,Job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,2
+hellhound2323,Male,2,Other,Single,I live with others,Job,Sometimes,High,No,No,2-3 Hours,2-4 years,No,0,1,2,1,2
+bn8pujj5s8k6acgr8b25sokvc,Male,0,United Kingdom,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,Less than 1 year,No,0,0,0,1,2
+s7coj5hh8a07dhh47qx6upqzs,Male,1,Germany,Single,I live with others,No job,No,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,0,1
+rezoarts,Male,1,Other,Single,I live with others,Job,No,Low,No,Yes,Less than 1 Hour,2-4 years,Yes,1,2,1,1,2
+alexander.stummer32,Male,2,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+l567pst4hgiqiir20gshjew53,Male,0,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,0,2,1
+aconexofficial,Male,2,Germany,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,0,0,1,2
+henriquealvex,Male,2,Brazil,Relationship,I live with others,Job,Regularly,Medium,Yes,No,Less than 1 Hour,More than 5 years,Yes,2,1,0,0,2
+n1c0201,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,0,1,2,2
+kwnr7h4iguuusgqp32sc9t96e,Male,1,Philippines,Relationship,I live with others,No job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+mnt43wn5sd3iwd934ten15bam,Female,0,United States,Relationship,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,No,1,1,1,2,1
+mcspinnelp,Male,1,Germany,Single,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,1
+jjthejetplane27,Male,1,United States,Single,I live with others,Job,No,Low,Yes,No,More than 6 Hours,2-4 years,Yes,0,1,1,2,2
+11150935649,Male,1,Other,Single,I live with others,Job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,1,1,2,1,2
+na30vo,Male,1,Other,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,No,0,1,1,1,1
+w66f6zbovh1g2ebi9eki30yca,Female,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,1,1,2,1
+11165171567,Male,2,Other,Relationship,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,1,1
+12174898329,Male,1,Brazil,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,No,0,2,1,1,0
+1130634793,Male,1,Other,Single,I live alone,No job,Sometimes,Low,No,No,2-3 Hours,More than 5 years,Yes,0,2,1,1,1
+timurbag,Male,0,Philippines,Single,I live with others,No job,Regularly,High,No,Yes,4-5 Hours,Less than 1 year,Yes,1,1,1,2,0
+8a7izxhmhu1z71njr6i68z3b8,Male,1,Other,Single,I live with others,No job,Sometimes,High,Yes,Yes,4-5 Hours,2-4 years,Yes,2,2,2,0,2
+an7xomqbonh66shqyx7dy7pqf,Male,2,Canada,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+22fkwnai4g6ruy7cgjzjfbk5i,Male,1,Philippines,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,0,1,1
+charleszhao0,Male,0,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,0,1,1,2,0
+sxa2nz910btba429koenr81a0,Male,1,United States,Single,I live with others,Job,No,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,1
+auu3n1ed3ccxzrec0tvcc2kuh,Male,1,Australia,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+7u7wvzzbjh1ns94t0jng1hws7,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,2,1,2
+phosphorrr,Male,1,Other,Single,I live with others,No job,Regularly,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,2,0,2,2
+31jn3q3q4usdhbsef4pyyjlouy3y,Male,0,United States,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,Less than 1 year,No,0,0,1,2,1
+r40mijq6n9b8gdi7zf1nhunnp,Male,0,United States,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,Less than 1 year,Yes,1,1,1,0,1
+m20elia2vhbz6dhus757td07v,Male,1,Philippines,Single,I live with others,No job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,0,1,2
+adler.yves,Male,2,Other,Single,I live alone,Job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,1,2,1,2
+rabbitpig1,Female,2,Other,Relationship,I live with others,Job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,1,0,0,2,0
+glz9b71ljs135cdpkgfepcfdx,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+ogxgi6utcqwomh2mwlllyn8fv,Male,1,Other,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,2-4 years,No,2,2,1,1,2
+0jh50pm6qcfsxnulr2ufgbnmi,Female,1,United Kingdom,Single,I live with others,Job,No,Low,No,Yes,4-5 Hours,2-4 years,Yes,0,1,1,2,0
+qcznk0mjjavlvwykbk5ce4d5i,Male,1,Germany,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,1,1,1,0
+cyranae,Male,2,United States,Relationship,I live with others,Job,No,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,0
+mrjellyfishz,Male,1,Australia,Relationship,I live with others,No job,Sometimes,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,0,1,0,1
+damian312,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,Yes,1,1,2,0,1
+3152aqggedgvrpyhjkcqjpvhmeym,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,Less than 1 year,Yes,0,1,0,1,2
+fabsolutly_bootifull,Male,2,United Kingdom,Relationship,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,1,1
+galrauch_,Male,1,Other,Single,I live alone,Job,Sometimes,Low,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,1,0,1,2
+useforbing02,Male,1,United States,Single,I live with others,Job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,2,2,1,2
+diegovaldera1,Male,2,Other,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,2
+r14xar69q1pgjaxjyo525v6ke,Male,2,Other,Single,I live with others,Job,No,High,No,Yes,2-3 Hours,2-4 years,Yes,0,1,0,1,2
+caquis1,Male,2,Other,Single,I live with others,Job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,0,2,1,1,1
+1172595001,Male,1,Other,Single,I live alone,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,1
+7jbczf8c7csfjfmg5lae9uhdz,Male,1,United States,Single,I live alone,No job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,1,2,1,0,1
+maggotbirb,Male,0,Other,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,0,2,0,2,0
+jj17pgd8gwkhl98y0odm965yn,Male,1,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,1,1,0,1,2
+kx4d42c4uo5nodnwee3rpkm4f,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,Less than 1 year,Yes,0,2,0,1,1
+wojtekww,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,1,2
+540ispa70bhsagyk6xoijg1h7,Male,0,India,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,0,1
+sakketora,Male,1,Other,Relationship,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,1
+hbowg0wsn5qwwz636csfaz5g0,Male,0,India,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,Less than 1 year,No,1,2,1,1,1
+perfectperidots,Female,2,United States,Single,I live with others,Job,No,Low,No,No,Less than 1 Hour,2-4 years,No,0,1,1,2,1
+williamravaska,Male,0,Other,Single,I live with others,No job,Regularly,Low,No,No,4-5 Hours,More than 5 years,Yes,1,1,1,2,1
+8n7dgqywtg64baggzt085k86k,Male,0,United States,Single,I live with others,No job,No,High,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,1
+12182438343,Female,1,Philippines,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,2
+61j3u1uhfg6aogor1qpoj35ew,Male,3,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,1,1,2,2
+11183650291,Male,1,Other,Single,I live with others,Job,No,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,0,1,1
+12182769345,Male,1,United States,Single,I live with others,No job,Regularly,High,No,No,More than 6 Hours,More than 5 years,No,2,1,1,0,2
+aiatvtvaidsd6l0dvoqtd5bpq,Male,0,United States,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,0,0
+sislish,Male,0,Other,Single,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,0,1
+31efnsiymfj3pkqzheolakbft63u,Male,1,Philippines,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,1
+tmtrucco8,Male,0,Other,Single,I live with others,No job,Regularly,High,No,Yes,Less than 1 Hour,2-4 years,Yes,1,0,1,1,2
+qvj9ac2m11k2x5h8gtmsnw3jc,Male,0,Other,Single,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,2-4 years,No,1,1,0,1,2
+just6660,Male,1,Canada,Single,I live with others,No job,Sometimes,High,No,No,More than 6 Hours,2-4 years,Yes,0,1,2,1,1
+cxolhhfqmm95sboa86qzn4579,Male,0,Other,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,1,2,1,2,2
+zundrh4ry73htjw7xu42ee7bm,Male,0,Other,Single,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,No,0,0,1,2,1
+dt9473012w08kl6sx54rnneru,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,No,0,1,0,0,0
+derekxumusic,Male,1,Canada,Single,I live alone,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+4vzp7adzxa7wkrj5im3ayzpow,Male,0,Australia,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,2,0,1,1
+annika.hahn14,Female,2,Germany,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,2,2,0,1
+brettbattisson1,Male,0,Australia,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,No,0,1,2,1,1
+moobsiusmaximus,Male,1,United States,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,0,0,1
+214bdlegzjmbdpcubwkd7e43i,Male,3,Other,Single,I live alone,No job,Sometimes,Low,Yes,No,Less than 1 Hour,2-4 years,No,2,1,2,2,1
+medianoche2,Female,2,Other,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+12136006724,Male,2,United States,Relationship,I live with others,Job,No,High,Yes,Yes,Less than 1 Hour,2-4 years,Yes,2,1,1,0,1
+danny.trio,Female,1,United States,Relationship,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,1,1,1
+31k7pydcbg4sz2mhf6jxjocme3u4,Female,1,Other,Single,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,Less than 1 year,No,1,1,1,1,1
+akagikin,Female,3,United Kingdom,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,1
+gaeiya,Female,3,Other,Single,I live alone,Job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,2,1
+enigmatichorror,Male,2,Other,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,0,2,1
+pinkfrenchie,Female,2,United Kingdom,Single,I live with others,Job,No,High,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,2,2
+mk0zxxb0ni7a5hgvthyyd41x3,Female,2,United States,Relationship,I live with others,No job,No,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,1,2
+fqf4schhqe8wh17g3iax1roec,Female,3,United States,Single,I live with others,Job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,0,0,1,1,1
+mctimmy,Male,1,Germany,Relationship,I live with others,No job,Regularly,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+rkkl7t1pwz4uwpkyl0kkkbd2p,Female,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,0,1,1
+roni.pursiainen,Male,1,Other,Single,I live with others,No job,Sometimes,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,0,1,2,2
+alween,Female,1,Other,Relationship,I live with others,No job,Sometimes,High,No,No,4-5 Hours,More than 5 years,Yes,1,2,1,0,2
+rt2c1xbmv930m3ugrchr0cf8l,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,0
+zgq39ub8597s2lr3cjko5jgo6,Female,2,Canada,Single,I live alone,Job,Regularly,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,1,2,2,2
+jihancheol,Other,2,Brazil,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,1,0,1,2,2
+1186299298,Female,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,No,0,1,1,2,2
+denki5,Male,2,Other,Single,I live alone,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+o4ge6y52xic6fu8k9bw5stsvj,Female,1,United States,Single,I live with others,No job,No,High,No,No,More than 6 Hours,2-4 years,Yes,1,2,1,2,2
+v4u58wizyu3gkqw87yalt7v9a,Male,1,Germany,Single,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,1,0
+1260025538,Male,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,0,2,2
+zerrx,Male,1,Other,Single,I live alone,No job,No,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,0,1
+k32s8t1384w3ppu7cunu2f676,Female,0,Other,Single,I live with others,No job,Regularly,High,No,No,Less than 1 Hour,2-4 years,No,1,0,1,0,0
+dennymiche,Female,2,Italy,Single,I live with others,Job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,2,1,0,1
+msfigueiredo2,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,2,2,1,2,2
+jackie-sunshine,Female,2,Italy,Relationship,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,2,1,2,1,2
+amoslanz44,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,2,0,1,1
+vittoriaaap,Female,1,Italy,Relationship,I live with others,No job,Sometimes,High,Yes,Yes,2-3 Hours,2-4 years,Yes,1,0,2,2,1
+vh8iavxjmaigsftj8hrm98bcw,Female,2,Other,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,1,2,2
+xaovafy4h6w4mm0q9cbdcyggz,Male,1,Italy,Single,I live with others,No job,No,Low,No,Yes,2-3 Hours,Less than 1 year,No,1,2,1,0,1
+31hqlgj6awbctij6ogb7x46yfr2a,Male,2,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,2,1,1,2
+gmle82iazdd92p0drhbcu5vi3,Female,1,Italy,Relationship,I live with others,No job,No,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,2,1,1,1
+gyromusic27,Male,2,Italy,Relationship,I live with others,No job,Regularly,Low,No,Yes,2-3 Hours,2-4 years,No,1,2,1,1,1
+l104693,Male,2,Other,Relationship,I live with others,Job,Regularly,High,No,No,4-5 Hours,More than 5 years,Yes,1,1,2,0,1
+uc1b373g2kel3hixzijy189fn,Male,2,Other,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,2-4 years,No,2,1,1,0,2
+1196176211,Male,2,Italy,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,2,2,1
+11100046864,Male,2,Italy,Relationship,I live alone,No job,Regularly,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,2,2,2,2
+piroloalessandro81,Male,1,Italy,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+sceptwo,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,0,2
+baka33,Female,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,1,1,2,1,2
+marcogufo2,Male,2,Italy,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,No,0,1,1,2,1
+11148896520,Male,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,Less than 1 year,Yes,2,1,1,2,2
+n3j6griho9preu28xqpvvnxue,Male,1,Italy,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,No,0,1,1,2,1
+11134924846,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+sugarfree96,Male,2,Italy,Relationship,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,2,1
+daniel_contro,Male,1,Italy,Relationship,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,2,2,0,2
+p6uq1wumwkjcaix7v10ui09ok,Male,1,Italy,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,0,0,1,0
+shakhd,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,2
+christiancattai,Male,2,Italy,Single,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,1,0,1
+arzignano01,Male,1,Italy,Single,I live alone,No job,Sometimes,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,2
+9t6tyw1fl0qbv5netl45l3577,Female,3,Italy,Single,I live alone,Job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,1,1,1
+tiro-84,Male,1,Italy,Single,I live with others,No job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,1,1,2
+9s6d2rtxs8h3ad52p46jea4nb,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,0,2,1,1
+sebanb213,Male,1,Italy,Single,I live with others,No job,No,Medium,Yes,No,2-3 Hours,More than 5 years,Yes,1,1,2,0,2
+11123037871,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,0,2
+21n24t45w46cuwzkncguf3vma,Male,1,Italy,Relationship,I live alone,No job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,1,1,1
+nccfsl,Male,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,2,1,1
+31a53j6qooy2wnrgjuynmzb6avfi,Male,2,Italy,Relationship,I live with others,Job,No,Low,Yes,Yes,Less than 1 Hour,2-4 years,No,1,1,2,2,1
+mcalbertkay,Male,2,Italy,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,2
+21ptq4rfoes2e2dekxdch2eri,Male,1,Italy,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,1,1,1,2,1
+ireneragazzo,Female,1,Italy,Relationship,I live with others,No job,Regularly,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,0,1,1
+mysticsayz,Male,1,Canada,Relationship,I live with others,Job,No,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,1,2
+gmzlhpx6h9axyk1x7hha9jfx0,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,No,0,1,0,0,1
+xxdeadwingsxx,Male,1,United States,Relationship,I live with others,No job,Sometimes,Low,No,No,More than 6 Hours,More than 5 years,Yes,1,0,0,2,2
+fjvzdru8cbcahay2gnwzh6qab,Male,0,India,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,No,0,2,0,0,1
+31u6qn7lqzfhdyw3iiqm74hkx3pu,Male,1,Germany,Single,I live with others,Job,No,Medium,No,No,Less than 1 Hour,Less than 1 year,No,0,2,1,1,1
+jacksheffield08,Male,1,United Kingdom,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,0,1,1
+ineshsiva,Male,1,Other,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+ue8a7yzukwskr7ctkjeg6frbt,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,1,1,1
+31aj4sumzxjmlzcnyot3h4bl2tsu,Female,1,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,Yes,0,1,0,1,0
+vjcwnotmo17qhevzfexbe56cx,Male,1,Other,Single,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,0,1,1,1
+-amuse-,Male,1,United States,Single,I live with others,No job,Sometimes,Low,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,0,2,0
+the_one2one,Male,0,United States,Single,I live alone,Job,Sometimes,Low,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,0,2
+5pcmp88u3rx38uwk4ordxgeau,Male,1,United States,Single,I live with others,No job,Regularly,Low,Yes,No,2-3 Hours,More than 5 years,Yes,0,1,0,0,0
+arttu346,Male,0,Other,Single,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,2
+arnas_north,Male,1,United Kingdom,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+c16fg016mlhhowz43voa29haz,Male,2,Other,Single,I live alone,Job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,1
+21pbun4gtfxeaur47s4wxuowi,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,Less than 1 Hour,Less than 1 year,No,0,2,1,1,1
+022bnolan,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,1
+remoteferret,Male,1,United States,Single,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,1,2,0,0,1
+8619xvasb8zxrl84ph36pdvht,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,0,1,1
+budakmeh12,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,More than 5 years,Yes,1,1,1,2,1
+0kf4ybhbp8y2ky4iosma40z3r,Female,0,United States,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+tuhyeewtw,Other,1,United States,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,1,1,1,0
+31mmiwdeohuvur45c36ml5hau5ra,Male,1,United States,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,1,1,1
+dawidg4345,Male,1,Other,Single,I live with others,Job,Regularly,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,2,2,0,2,1
+hadi-al,Male,1,Canada,Single,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,0,0
+12132693171,Male,0,Other,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+oacukcc8p11pbxrwiuh2rrb7s,Male,0,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,Less than 1 year,No,0,1,1,1,1
+asianboy265,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,No,1,1,1,2,2
+wg509b7j15ksypi74rzg3auhy,Male,1,Germany,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,1,2,1,1,2
+9zsi45auo3j4iuxywgarcpmje,Male,1,Other,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,2,1
+im_a_fancy_lad,Male,1,United States,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+raevtheo,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,1
+31v7gqivfiqlc3v3oycquoj7b22a,Male,1,Other,Single,I live with others,No job,No,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,2,1
+paaougop22rjfl4jz8br537af,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+pietro.toso98,Male,1,Italy,Single,I live with others,No job,Regularly,High,No,Yes,Less than 1 Hour,2-4 years,Yes,0,1,1,0,1
+31zso7ae2ki526ih3ipzylpko3zq,Female,2,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,2,2,2,1,1
+calangi.angienette,Female,2,Philippines,Single,I live alone,No job,No,High,Yes,No,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,2
+1139685737,Female,2,Germany,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,2,2,0,1
+txr1g8v20tdrvaubiocl0sf8d,Female,2,India,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+federicocosta10,Male,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,1,1,1,1,2
+burgersareyummy,Male,1,United States,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,0
+noah_davis,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,2,2
+12131521176,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,0,2
+emrekosmaci,Male,2,Other,Relationship,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,0,1
+sicarionox,Female,2,Other,Relationship,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,2,2
+31plr3yhuowyncoodjnrnkrbdvwu,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,Less than 1 year,No,0,0,1,0,2
+saneacorn,Male,1,Other,Single,I live with others,No job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,0,0,2,1
+v8sp6by6fxc528igeykvxjthj,Male,1,United States,Single,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,2-4 years,Yes,1,2,2,2,1
+nigucmztlq8osrwdvbrkg6vfb,Male,1,Other,Single,I live with others,No job,No,Medium,No,Yes,2-3 Hours,2-4 years,No,0,1,1,1,2
+obergaiman,Male,3,Other,Single,I live with others,Job,No,High,No,No,Less than 1 Hour,2-4 years,No,0,1,1,1,1
+uncn0w,Other,1,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,No,1,1,0,2,2
+12171613794,Female,0,Philippines,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,More than 5 years,Yes,1,1,0,1,1
+danielbj777,Male,3,Brazil,Single,I live with others,Job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,2
+2fv8mi8x9lqqbs84r7i2hgkie,Male,0,Other,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,No,1,0,0,1,0
+sulphur11,Male,1,United States,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+silentjae1217,Female,0,Philippines,Single,I live with others,No job,Regularly,High,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,2
+madlrage,Male,1,United Kingdom,Relationship,I live alone,Job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,1,1,2,1,1
+khgh9x83je2edgjf4l6386u8h,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,2,0,1,0
+undefinedhell,Male,1,United Kingdom,Relationship,I live with others,No job,No,Low,No,No,4-5 Hours,More than 5 years,Yes,2,1,1,1,2
+lhrq8v3di6zlx30864vqqp6cu,Male,1,Other,Single,I live with others,Job,Regularly,Low,No,Yes,2-3 Hours,2-4 years,No,1,2,1,1,1
+1150041486,Male,2,Germany,Single,I live alone,Job,Sometimes,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,2,2,2,2
+brainshue,Male,2,United States,Single,I live with others,Job,No,High,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,1,2,2
+129745525,Male,2,United States,Single,I live with others,Job,Sometimes,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+12163034129,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,No,More than 6 Hours,2-4 years,Yes,2,2,0,2,1
+eddystoner15,Male,2,Canada,Relationship,I live alone,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+plutotf2,Female,2,Other,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+hiimjamesngo,Male,1,United States,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,0,0,2,0
+1231871318,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+crabz1030,Male,2,United Kingdom,Single,I live alone,Job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,0,2
+31vm6qwn53apxe5hh2nefwbdahae,Male,2,Other,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,No,1,0,1,0,1
+129220595,Male,2,United States,Single,I live alone,No job,Sometimes,Low,Yes,No,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+ctx9rype7ynhs1b5hpm621977,Male,1,Other,Single,I live with others,Job,Sometimes,Low,Yes,No,2-3 Hours,2-4 years,No,1,1,1,1,1
+tomcatthenommer,Female,1,Australia,Single,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,2,2,1,1,2
+maximusismax,Male,2,United Kingdom,Single,I live with others,Job,Regularly,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,1
+1236409660,Male,1,United States,Relationship,I live with others,Job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,1,2,1,1
+scratchdx,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,1,2,1,1
+robbymister,Male,2,Canada,Relationship,I live with others,Job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,0,2,1,1
+1129911843,Male,1,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,2,0,2
+22z7uqafotfd73jh57rj6l7wq,Male,1,Australia,Relationship,I live with others,No job,Regularly,High,Yes,No,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+21ykfpt2jp5gl2qiso7tdogkq,Male,1,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,1,1,1,2
+31eekdc7ho6yg7ruh6wv3r34pw6y,Male,1,India,Single,I live with others,No job,Regularly,Low,No,No,Less than 1 Hour,Less than 1 year,No,0,2,1,1,1
+1196930275,Male,3,Italy,Relationship,I live with others,No job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,2,2
+iyw4oescj7gby6zrtda29w6y5,Male,2,Other,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+dlyuk,Male,1,Italy,Single,I live with others,No job,No,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,1,0,0,2,1
+cunh44,Male,1,Brazil,Single,I live alone,No job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,2,0,1,2
+domgenqjhmyv7ph8rer9zo2x6,Male,1,India,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,1,1
+6bsqq8x1uuxyufa52o9ylivl9,Male,1,Other,Relationship,I live alone,Job,No,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,1,1,0,1
+mmundy.esl,Male,3,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,2,1,1,1,1
+215ng6ttdjjlodvspce3joe5a,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,0,0,1
+srock987,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,0,1
+qthpr18u6zeh4l10rz3g0rifl,Other,2,Canada,Relationship,I live with others,No job,No,Low,No,No,Less than 1 Hour,2-4 years,Yes,0,2,1,1,2
+21nrtne3ua4ixs7qpak3nywvi,Male,1,United States,Relationship,I live with others,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,2,1,2
+breadleyloafsyou,Male,3,United States,Relationship,I live with others,Job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,1,1,0,2,2
+freystation,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,1
+usx8,Male,2,United States,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,0,2
+12121859864,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,More than 6 Hours,2-4 years,No,1,2,1,0,1
+pokedog7,Male,1,United Kingdom,Single,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,1,1,0,1
+babarigo,Male,2,Other,Single,I live with others,Job,No,High,No,Yes,2-3 Hours,2-4 years,No,0,1,1,0,1
+3172v53cgtm7zzgg5njqbpjwyh6i,Male,1,United States,Single,I live with others,Job,No,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,2,2
+hunterdevoe3,Male,1,United States,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,0
+fvckevin,Male,2,United States,Single,I live alone,Job,Regularly,Low,No,No,More than 6 Hours,More than 5 years,Yes,2,2,1,1,1
+ge3j664p1yrvisg0au4vjuqnh,Male,0,India,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,No,0,0,0,2,1
+carney678,Male,2,United Kingdom,Single,I live with others,No job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,1,1
+bakedfishy,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,1,2
+mopavoni,Male,1,United States,Single,I live with others,No job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,2,2
+z5sswpknzczyx924wsklnryu4,Male,1,Other,Single,I live with others,No job,No,High,No,Yes,2-3 Hours,2-4 years,Yes,2,1,0,0,1
+e93aarb12tv7zk4wly4gsf2du,Male,1,United States,Relationship,I live with others,Job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,1,2,1
+requisiterequis,Male,1,United States,Single,I live with others,Job,No,Low,No,No,4-5 Hours,2-4 years,No,0,1,1,2,2
+1211721056,Male,2,United States,Single,I live with others,Job,Sometimes,Low,Yes,No,More than 6 Hours,2-4 years,Yes,1,2,1,2,2
+mtghunter1243,Male,0,United States,Relationship,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,Yes,2,0,0,0,1
+2bz88ewz6olsxvx72czngs82y,Male,1,United States,Single,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,Less than 1 year,Yes,1,2,2,1,2
+zemryss,Male,2,United Kingdom,Single,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,2-4 years,Yes,2,1,1,2,2
+qs77vhcnd4c96ya2ddw4d99f9,Male,3,United States,Single,I live with others,Job,Sometimes,Low,Yes,Yes,4-5 Hours,2-4 years,Yes,2,2,0,0,2
+51xktv9cmuw5c3p0ak6fa2qrf,Male,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,2,2
+jrharvey320,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+toopunkrockforthis8,Female,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+1267673054,Male,2,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,2,0,1
+espurrs,Female,3,United States,Relationship,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,More than 5 years,No,0,1,0,2,1
+ashleyantwolf,Female,1,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,0,2,1
+fostersamj,Female,2,Australia,Relationship,I live with others,No job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,0,1,2,1
+1198966291,Male,3,United Kingdom,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,0,2
+z6hihpntza8bjp0vm6sx8hjey,Female,1,Other,Single,I live alone,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,0,1,1,2
+jiqyuls,Female,1,Philippines,Single,I live with others,No job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,1,1
+l6l1cubrec56k06f5n25ldjh1,Male,1,India,Single,I live with others,No job,Regularly,Low,No,No,2-3 Hours,2-4 years,No,0,1,0,2,2
+hholguin13,Male,2,United States,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,1,1
+pnm4pv8gu55i74sr8msnkdrib,Female,1,India,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,No,0,2,0,2,1
+ncthaechan,Other,1,United States,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,2,2
+choerrypie,Female,1,Canada,Single,I live alone,Job,No,High,No,Yes,4-5 Hours,2-4 years,Yes,0,0,1,2,2
+ma6we1dxba76lowaaxyd99e2i,Male,1,United States,Relationship,I live with others,No job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,0,0,2,1
+liyannah,Female,2,Other,Relationship,I live with others,No job,No,High,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,1,2
+mduclos15,Male,2,United States,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+seankkuroiwa30,Male,3,United States,Single,I live with others,Job,Sometimes,Low,No,No,Less than 1 Hour,Less than 1 year,Yes,1,1,1,1,1
+antumbran,Male,2,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,1,0,1,2
+11133730241,Male,2,Other,Single,I live alone,Job,No,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,0,2
+22vrqj324vufiecrd7lsj5uuq,Male,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,2,1,1,2
+shelovesjuve,Other,1,Italy,Single,I live with others,Job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+8tgcuinldx5i65a6o4i211o8y,Male,1,Germany,Single,I live with others,No job,No,High,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,0,1
+zi5vrgsl1u38s9m9abfz678cm,Male,1,United States,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,2,2
+hangelus34,Male,1,Italy,Relationship,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,No,1,2,2,1,1
+dkc6g8twrlupi0jqjhh7xy90g,Male,1,India,Single,I live alone,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,1
+31es4ecqmdl7ql6rztrsia6meye4,Male,1,India,Single,I live with others,No job,Sometimes,Medium,Yes,No,2-3 Hours,2-4 years,Yes,0,2,2,2,1
+tobbe-196,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,1,1
+21to7ndobls65cwo3hsbrfbgi,Female,3,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,0,1
+xnclr,Male,1,United Kingdom,Relationship,I live with others,Job,Sometimes,High,Yes,Yes,More than 6 Hours,More than 5 years,Yes,2,1,2,0,2
+31imk3ocausqsyvodqqupagndrde,Male,1,India,Relationship,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,2
+c6tvjh136x6p5jin0a1opj3o0,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,2,1,2,2
+seirent,Male,1,Other,Single,I live alone,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,1
+vwxf5i2neupms2pi7fbq26zgt,Female,1,Australia,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,2-4 years,Yes,0,2,1,1,2
+hw2wrpljm6urg2ogirt6kjb4k,Female,0,Australia,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,2,1,0,1
+1179891696,Male,1,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,1,1,2,1,2
+z6kyv936ynpre85dvxcmhuitb,Male,0,United Kingdom,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,1,0,0,1,1
+rosesauvage,Female,2,Canada,Relationship,I live with others,Job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,2,2
+118125296,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,Yes,2,2,1,0,1
+cdo2gmp7a1ve1d1xd567gtwqu,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,2,2,1,0,2
+12124764057,Male,1,United States,Single,I live with others,No job,Regularly,Low,No,No,4-5 Hours,More than 5 years,Yes,1,1,2,2,2
+31usvjogjujpxay2oft2vouthi54,Female,0,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,Less than 1 year,No,1,1,0,2,0
+emmajay97,Female,2,Canada,Single,I live alone,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,2,2,2
+85pv7mki99d70118mi69u4nq1,Female,1,Brazil,Relationship,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+9sz4ad14gqfqzai8zae3c7lh0,Male,1,Brazil,Single,I live with others,Job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,0,1,1,1,1
+314mjjbkfuovyfixw7bgnolmo5iq,Female,3,United States,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,Less than 1 year,Yes,0,1,1,2,2
+1221318257,Male,1,United States,Single,I live with others,Job,Sometimes,Low,No,No,2-3 Hours,More than 5 years,Yes,1,0,2,1,2
+12177435049,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,2
+21vls4iuevw54pi4hiszodcfa,Male,1,United States,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,2,2,2,1,2
+e47a9fg4pn3hnjsgy5gd0wz3r,Female,1,Other,Single,I live alone,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,0,1,1
+12159171298,Male,2,Canada,Single,I live with others,Job,Sometimes,Medium,Yes,No,2-3 Hours,More than 5 years,Yes,0,2,1,2,2
+224pg723ex7jydjtudujwht3a,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,Yes,4-5 Hours,More than 5 years,Yes,2,2,2,0,1
+1174423965,Male,2,United Kingdom,Single,I live alone,Job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,2,2,1,2
+vlax1234,Male,1,United States,Single,I live with others,No job,Sometimes,Low,No,No,More than 6 Hours,More than 5 years,Yes,1,0,0,0,2
+superrpgesus,Male,2,United States,Relationship,I live with others,Job,Regularly,Low,No,Yes,4-5 Hours,More than 5 years,Yes,2,1,2,1,2
+rcayp47t9nmx41eptd38ix8sp,Other,2,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,0,2,1,2,2
+22rhto6ual5hcxqq2ouhgwc3y,Female,3,United States,Single,I live with others,Job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,2,2,1,1,1
+vahmaian,Other,0,Other,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,No,0,1,1,1,2
+uneecornn,Female,1,United States,Single,I live with others,Job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,1,2,2,2
+zhenliu_98,Female,0,United Kingdom,Relationship,I live with others,No job,Regularly,High,No,No,More than 6 Hours,More than 5 years,Yes,0,2,0,1,2
+823isjmaa8wwiquuirvlc6k95,Female,1,Canada,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,0,1,2,2
+kgiiohaq7f4knbvyssffwuzy4,Female,1,United States,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,No,0,1,2,1,2
+31kwrwwlxlq7iqqlwouzrqx3dbmu,Male,1,Germany,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,2,1,2,1,2
+giada3.vasari,Female,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,0,1,2,2,0
+wy5uibud754t4uzgpius8yb4d,Male,2,Other,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,2,2,2,1,0
+ffayz,Female,2,Other,Single,I live with others,Job,No,Medium,Yes,No,4-5 Hours,2-4 years,Yes,0,1,1,2,1
+y9zu6rt65v2vsxobulzmqfe9z,Male,0,Canada,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,No,1,0,0,1,1
+mcquvixzo5ik63m7vson81vpz,Male,2,United States,Single,I live with others,Job,Regularly,Medium,Yes,Yes,More than 6 Hours,2-4 years,Yes,0,0,1,1,2
+hdn9e6tmzwt0l1pchhm2wxj7e,Female,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+1297465987,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,1,1
+mfgarcia10596,Male,2,United States,Single,I live alone,Job,Sometimes,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,1,1
+31e4tl3r3mfgoczqskztw54g2hza,Male,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,2
+12139894177,Male,1,Australia,Single,I live with others,Job,Regularly,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+psyloarchy,Male,1,Canada,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+call_me_xo,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,2,1
+22a74hnb7g254jjzsq4mioeai,Female,1,Canada,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,2,1
+vkerum8m3lyl5o3zz9xvr0k9q,Male,1,United States,Single,I live with others,Job,Regularly,Low,No,No,More than 6 Hours,More than 5 years,Yes,0,1,0,1,1
+1115800252,Female,2,Other,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,More than 5 years,No,1,2,1,0,1
+a.blakewhitley,Male,2,United States,Single,I live alone,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,2,2,1,2
+rai7757dzf65azmdgey11463z,Female,0,United States,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,1,1,2,2,0
+whitegaze,Female,1,Brazil,Single,I live alone,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+21xe2fnootmd4yvek6p4q4rcy,Female,0,Philippines,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,No,1,2,1,1,1
+212ar6ren4ddjai4kycqt2dvi,Male,0,Canada,Single,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,No,2,1,0,1,2
+muzicf,Male,3,Other,Single,I live alone,Job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,0,2,0,1
+hd7e6xxa3wte6uwjlu9rhi021,Female,0,India,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,1,1,0,2,2
+1132888905,Male,2,Other,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,More than 5 years,No,0,2,1,0,1
+elrmtno3qghup7mh3t40ifqyc,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,No,1,1,1,2,1
+snx8bj4ap87iwozjih1pups2s,Female,0,Australia,Single,I live with others,Job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,1,2,1
+31aset6i5htemvxerpze2vsodury,Female,1,Other,Relationship,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,1
+rhysjt-ca,Male,2,Canada,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,0,1,1,2,1
+11126042514,Male,1,Other,Single,I live with others,No job,No,High,No,No,4-5 Hours,More than 5 years,Yes,1,2,1,1,1
+cn_bad_x,Male,1,Germany,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,1,2
+sasalukac,Male,3,Canada,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,0,1
+31nfke63tqizj6jfcjdtphz4e5ri,Female,1,India,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,0,2,2
+0l6x3wfmb3xb0ad4uamev2lb2,Female,0,United States,Single,I live with others,No job,No,Low,No,No,Less than 1 Hour,2-4 years,Yes,0,1,0,1,1
+ariestr0llp0wer,Female,1,United States,Single,I live with others,Job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,2
+0wn9rs03idskpgiadqz2x4uss,Other,0,United States,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,1
+1267067067,Female,2,United States,Relationship,I live with others,Job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,0,1,2,1
+w2mtiu19xnttuxmotla0tqc61,Female,1,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,No,0,1,1,2,2
+1246006565,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,2,2,2,1,1
+d28eenck410jvir4yss2x4ylg,Female,0,Canada,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,2,1,1,1,1
+type7173,Male,1,Australia,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,2,1,2,2
+rakoontay,Female,3,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,0,1,1,2,2
+28kxk393nxd74sbnt3hiugb25,Female,3,Other,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,Less than 1 year,No,1,1,0,1,2
+dazedtea,Other,1,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,More than 5 years,Yes,1,0,1,2,2
+chomsky96,Male,2,Germany,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,2,1,2
+annedekker99,Female,1,Other,Single,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,No,0,1,2,1,2
+jonanx64,Male,3,Other,Relationship,I live with others,Job,Sometimes,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,1,2
+stephaniesnyder1,Male,0,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,0,1,1,2
+31moijx5ycrl3lnrx4ytdjrxr3we,Female,0,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,Less than 1 year,No,0,1,0,2,2
+o8dvbiirrr2qltwkh78te2fx3,Female,1,Other,Single,I live alone,No job,Sometimes,High,Yes,Yes,4-5 Hours,2-4 years,Yes,2,2,1,1,1
+312qoabk6p2ddbt5lsmyfnyefyui,Female,2,Other,Single,I live with others,No job,Sometimes,High,Yes,Yes,2-3 Hours,Less than 1 year,Yes,2,1,1,2,1
+mzpyfev5784a7s0v7rjbum4wl,Other,2,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+dvision_st,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,2,2,1,1,2
+1168422414,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,2,2,1,2,2
+1135802929,Other,2,Germany,Relationship,I live with others,Job,Regularly,High,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,2,1,1
+22eqg2xa7wqvna2jrbmdkxm7q,Female,1,United States,Relationship,I live with others,Job,No,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,1,0,1,2,2
+xn6cqra9gg9q8w5df202v0s3f,Female,0,United Kingdom,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,2-4 years,No,2,0,1,1,2
+7qthw5klwngca4hplmr9flpbj,Male,1,United States,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,1,0,2,2
+21pqd5c5odzyg6ng6sach2mba,Other,1,Other,Relationship,I live with others,Job,No,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,1,0,2,2
+212f3uxqq2z7orx35cfdxvkei,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,2,1
+b5z3e23btyu8jhi1mmfbytutg,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,0,1,1,0
+314tw34guubulvebnrf54x477fxq,Other,0,United Kingdom,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+1236220236,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+5sk6ad8t55148vnh6h0e2lohj,Female,3,United Kingdom,Relationship,I live with others,Job,No,Medium,Yes,Yes,2-3 Hours,2-4 years,No,1,2,1,2,1
+1122097685,Male,3,Germany,Relationship,I live with others,Job,No,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,2,2
+oddmundtoft,Male,2,Other,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,1,0,2
+q2n80u0t6xliofpkmxlmrfwgm,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,Less than 1 year,No,1,2,2,1,1
+330azgm99d52gaqq7cgevbupu,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+31vzmatfudv2zveqzkfycspq3vhy,Female,1,Other,Single,I live alone,No job,Regularly,Low,No,Yes,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+2q0gqzz7j6qux35r2c1v13nvh,Male,0,United States,Relationship,I live with others,No job,No,Medium,Yes,No,More than 6 Hours,2-4 years,Yes,0,0,1,2,1
+1162968380,Female,3,United Kingdom,Relationship,I live with others,No job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,2,1,0,2
+garthatron5000,Male,3,United Kingdom,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,1,1,2
+th_bld_,Male,1,Germany,Single,I live with others,No job,Regularly,Low,Yes,Yes,4-5 Hours,2-4 years,Yes,0,1,2,0,2
+cyanright,Male,2,Other,Single,I live with others,No job,Sometimes,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,1,1,1
+coward-monburan,Female,1,Philippines,Single,I live with others,Job,No,Low,No,No,4-5 Hours,More than 5 years,No,0,0,1,2,1
+erftonz,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,No,1,1,1,2,2
+slipknot1969,Male,3,Other,Relationship,I live with others,Job,Sometimes,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+ud2f85pcnc525a0sw5fmy7m6x,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,No,0,1,2,1,1
+67iqssztwfh8s3sqbw4io2enp,Female,1,United States,Relationship,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,1,2
+brianna.blust,Female,3,United States,Relationship,I live with others,Job,Sometimes,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,1,2,0,1
+ravsuuu,Female,2,United Kingdom,Single,I live alone,Job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+7qhbhg8a6eu4znl3d7uryhful,Male,0,Other,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+22fd2udkmjagfxzqnli2heana,Other,3,United States,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,2,1,2
+o8mpk37jh8jjip4teancmkoco,Other,1,United States,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,2,1,2,1
+zxizh0j8oc34iv1svgdeo8z4b,Male,3,United States,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,More than 5 years,No,0,1,1,1,1
+sqvo9s43ygp8e9whcwynbfuv0,Other,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,1,2,2,2,2
+thebirdcagefactory,Male,1,United Kingdom,Single,I live with others,No job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,1
+kaminsko1228,Male,2,United States,Relationship,I live with others,Job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,1,1,2,1
+erikgraybill,Male,1,United States,Single,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,1,1,1
+6dwqdn8juu5i7db64n4exmmbb,Male,0,United States,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,2,2,2
+1225706753,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,1,1,2
+12140809427,Female,3,United States,Single,I live with others,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,1,1,2,2
+carinsved,Female,2,Other,Relationship,I live with others,Job,Regularly,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+36whuuwdhniy3e24wc3j7d7zp,Male,0,United States,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,2
+monluztrella,Female,3,Other,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,2,2
+gabrielmphcev,Male,2,Brazil,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,1,0,2
+82qrdafma95stw7ap63bt65fw,Female,0,United States,Single,I live with others,No job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,2
+317wjsssw5zfjjzn3fxdybyumcvu,Male,1,United States,Relationship,I live with others,Job,Regularly,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+dn5d8ir2k0qux1lqrktyfaq04,Male,3,Australia,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,2,1,1,0,1
+knot59,Male,2,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,2
+paladinl33roy,Male,1,United States,Single,I live with others,Job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,2,1,1,2
+camilamaraoliveira,Female,2,Brazil,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,1,2
+r2v4ta1t53vnh9urut8oaidth,Female,0,Canada,Single,I live with others,No job,Regularly,High,No,No,4-5 Hours,Less than 1 year,No,0,1,2,2,2
+cpnxecowwyvysledql6kryuo9,Female,1,Other,Single,I live alone,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,0,0,2,2
+katrina.a6500,Female,1,United States,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,2,1,1,2,2
+31g4knpit7jy3ngpmx6betx6xrzi,Male,1,Other,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,Less than 1 year,Yes,1,2,1,1,0
+6kumdrafdtmt7gfufq589d0cj,Male,1,Other,Relationship,I live alone,No job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,2,1,1,2
+125896048,Male,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,1
+y7ro4v5222k19hbml2a04a2ws,Male,0,United States,Single,I live with others,No job,Regularly,Medium,Yes,No,2-3 Hours,2-4 years,No,1,1,1,1,2
+ghowland72,Male,1,United States,Relationship,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,0,2,1,2
+1220291091,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,1,1,1,2
+6ehb0m4rxq0f44fblteyf9typ,Male,0,United States,Single,I live with others,Job,Regularly,Low,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,1,1
+kabukiyuki,Female,3,Other,Relationship,I live alone,No job,No,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,2
+colinboyer13,Male,2,Canada,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,0,1
+11131713428,Female,3,Other,Single,I live with others,Job,Regularly,Low,No,No,Less than 1 Hour,More than 5 years,Yes,0,2,2,2,0
+jk9c4hl5g6gg7rl1hwe7c8nmv,Other,0,United Kingdom,Relationship,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,0,2,1,2,1
+jamithemies,Male,1,Other,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+otk48qyofelk0bxpis1hiy8ae,Female,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,1,2,2,2
+1192641944,Female,0,United Kingdom,Relationship,I live with others,Job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,1
+odbprcfurkblhxn5sxx9a6iyn,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,2,1
+1188255247,Female,2,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,2,1
+gabree18,Female,2,Australia,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,1
+neavetheslytherin,Other,0,Australia,Relationship,I live with others,No job,No,High,Yes,No,4-5 Hours,2-4 years,Yes,2,1,1,1,1
+0qfwmzyypks102ywh45ykdet2,Female,0,United States,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,Less than 1 year,No,0,1,1,1,2
+yvnjke6ort4qb12qxq66a9hx0,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,2,0,1
+riosf64,Male,2,United States,Single,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,2
+beanerspotify1209,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,1,1,1,1,2
+iamgroot26,Male,1,United States,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+1241224124,Other,1,United States,Single,I live with others,No job,No,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,2,1
+nqcjvrgkibikjx6ngt6hmk2k6,Male,2,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,1,1
+hartnett.lucy,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,0,1,2
+twolame,Male,3,Germany,Single,I live alone,Job,Sometimes,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,2
+jearzn,Other,1,Canada,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,0,2
+schlnglein,Male,2,Germany,Relationship,I live with others,Job,No,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,2,1,1,0,2
+672gsa4u7tfid8fanxrc81ydo,Female,1,United Kingdom,Single,I live with others,No job,No,Low,No,No,4-5 Hours,Less than 1 year,No,1,0,0,2,2
+vyns6qrd01pajzwyqd5eigc28,Male,2,United States,Single,I live with others,No job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,0,1
+fvq9gdrc6kbjrhknqqg8fkchi,Male,0,Australia,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,1,1,1,2,2
+maddy.walters8,Female,1,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,1
+wa8131q8x3rt9vci4mrftjll1,Female,1,Other,Single,I live with others,No job,No,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,0,2,0,2,1
+thevimtowolf,Male,1,United Kingdom,Single,I live with others,Job,No,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,0,2,1
+dogelistens,Female,0,United States,Single,I live with others,No job,No,Low,No,No,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+chgaukezrdxyk955lzqz4cnr7,Male,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,2-3 Hours,2-4 years,No,0,2,2,2,2
+harveyskinner28,Male,0,United Kingdom,Single,I live with others,No job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+7jb4h5a9byxv6tzt606t8umnv,Male,1,Germany,Single,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,No,1,0,1,1,2
+15pcdrrqnrdpcx74buqn1y4kn,Male,0,Brazil,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,Less than 1 year,Yes,1,0,2,1,1
+tl1pwer8damqr1m9bk7ezyehr,Female,1,United States,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,More than 5 years,Yes,1,2,1,2,2
+31i6ejzdqlu34n5s6mmynnrw5nvy,Female,1,United States,Single,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,1,2
+laurenelizaf,Female,3,United Kingdom,Single,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,1,1
+122631734,Female,2,United States,Single,I live alone,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,2,2
+tpalmerstudios,Male,2,United States,Single,I live alone,Job,No,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,0,2,0,2
+0azyb7tji92nc4y5w3u82w775,Male,1,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,More than 6 Hours,Less than 1 year,Yes,1,1,1,1,2
+fi9wkn22httish7x9vmaox2fn,Male,1,India,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,2
+1254164412,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+uptight9,Female,3,Other,Relationship,I live with others,Job,Sometimes,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,1,0,2,2
+francespsywaffle,Female,2,United States,Relationship,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,0,2,0,2
+emak47,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,2
+juliusjansson1,Male,1,Other,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,1,1
+lucaquaglia01,Male,1,Italy,Single,I live with others,Job,No,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,0,2,0,2,1
+agentwyoming,Male,2,United Kingdom,Relationship,I live with others,Job,No,High,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,0,2
+xyzia,Male,3,United Kingdom,Relationship,I live with others,Job,Regularly,High,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,0,1,2
+klone_01,Male,1,Brazil,Single,I live alone,No job,Sometimes,Low,No,No,Less than 1 Hour,More than 5 years,Yes,0,2,1,1,1
+127247504,Male,2,United States,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,1,1
+adam312,Male,1,Other,Relationship,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,0,1
+joksdergeilomat,Male,1,Germany,Relationship,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,2,1,2,0,2
+thorbearius,Male,3,Other,Relationship,I live with others,Job,No,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,0,2
+8euyw3mq08jotazm7flws8fa8,Male,1,Other,Single,I live with others,No job,No,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,2,1,0,1
+8yjzbvf5n8bfszomhvxsvdurb,Male,1,Other,Single,I live with others,Job,No,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,2,1
+7yl53oe3qfn0fypbbwjio5s6s,Male,0,Other,Single,I live with others,Job,Regularly,High,No,No,2-3 Hours,More than 5 years,Yes,1,0,2,0,0
+niclashage,Male,1,Other,Relationship,I live with others,Job,No,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,2,0,2
+eldiablorojo,Male,1,Other,Relationship,I live with others,No job,No,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,0,0,1
+taiki92,Male,2,Other,Single,I live alone,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,0,1
+zbyt42vt1kuwovh20kpqvjh7l,Male,1,Italy,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,More than 6 Hours,More than 5 years,No,2,2,0,0,0
+gq8lwcbi2uimgifirqkja9sze,Male,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,1,0,2,2
+ifuf1sno83lpqodpdxbu083tb,Male,2,United States,Relationship,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,Less than 1 year,Yes,1,2,1,0,2
+maximus094,Male,0,Other,Single,I live alone,No job,Regularly,Medium,Yes,No,More than 6 Hours,More than 5 years,Yes,1,1,2,0,1
+1213296918,Male,2,United States,Single,I live with others,Job,No,Low,No,No,4-5 Hours,More than 5 years,Yes,0,2,1,1,1
+stormtrooper638,Male,1,United Kingdom,Relationship,I live with others,Job,No,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,2,2
+a2fxccqy76arng4cwk6780bqu,Male,0,United Kingdom,Relationship,I live with others,No job,Regularly,High,No,No,2-3 Hours,More than 5 years,Yes,1,2,0,0,1
+as720engw3r6001zkhmmhvywz,Female,0,Other,Single,I live with others,No job,No,Low,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,2
+wavenyx,Male,1,United States,Single,I live with others,Job,No,Low,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,1,1
+125925320,Male,3,Other,Single,I live alone,Job,No,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,2
+benjaminmoizer,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,0,2
+feax003,Male,1,Italy,Single,I live with others,No job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,No,0,2,0,1,1
+21viwunfd5me7s2qr5ggbqaga,Male,1,Other,Single,I live alone,Job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,0,1,2,1
+11149560621,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,2,1,0,0,2
+31gxklbgkhxessxoyaj4ivyo5xie,Male,2,Philippines,Single,I live with others,No job,Sometimes,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,1,1,1,1,1
+skodori,Male,2,United Kingdom,Single,I live with others,Job,Regularly,High,No,No,2-3 Hours,More than 5 years,Yes,2,1,2,0,1
+eheadrick,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,0,2
+jagrbishop,Female,2,United States,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,2,2,1,2,2
+yzy2ws5q5o2tfn1gl3wfek2c6,Male,2,United States,Relationship,I live alone,Job,Regularly,High,No,No,Less than 1 Hour,2-4 years,Yes,0,1,1,1,1
+vv6g3qsjzl6vittvddbwosbjq,Male,1,Other,Single,I live with others,No job,No,Low,No,No,4-5 Hours,2-4 years,Yes,2,1,1,2,2
+greatest.gamer,Male,3,Other,Relationship,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+12180015456,Male,1,Philippines,Single,I live with others,No job,Regularly,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,2,1,1,0,1
+21hhl3x7gzn7y2lk2rzjmcmxi,Male,2,Other,Relationship,I live with others,No job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,0,1
+12125865589,Male,1,United States,Single,I live with others,No job,Regularly,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,1,2
+1193888704,Male,2,Other,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,0,0,1
+1145800949,Male,2,Other,Relationship,I live with others,Job,Regularly,High,No,No,Less than 1 Hour,2-4 years,Yes,1,2,2,2,1
+11184927955,Male,3,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,1
+nonhypocrite,Male,2,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,1
+1111488647,Male,1,Other,Single,I live with others,No job,No,High,No,No,More than 6 Hours,More than 5 years,No,0,1,1,0,2
+1132141536,Male,1,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,1
+12162105077,Male,1,Philippines,Single,I live with others,No job,No,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,0,0,2
+7z7q40mxtebf2isgafabpi7nx,Male,0,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,Less than 1 year,No,1,1,1,0,2
+callmegusgus,Male,2,United States,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,2
+22oqaftlzcav5pnctlstq3wxa,Male,1,Brazil,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+hubbardca,Male,1,United States,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+d0fpi5zvigrsjp5houbwhf3ee,Male,1,Australia,Single,I live with others,Job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+aisteh,Male,3,Germany,Relationship,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,More than 5 years,Yes,2,2,1,0,1
+22jna7i6ezepo64kx5zcyowva,Male,0,Brazil,Single,I live with others,Job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,1,1,1
+225tycx3szxjncm6knm2szvry,Male,2,Brazil,Relationship,I live with others,Job,Regularly,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,0,0,2
+rothanton.hhb,Male,3,Germany,Single,I live alone,Job,Regularly,High,No,No,Less than 1 Hour,Less than 1 year,Yes,0,1,1,0,0
+klye_,Male,1,United States,Single,I live alone,No job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,0,2,1
+jakeonaut,Male,2,United States,Relationship,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,2,2
+lalalawesome,Male,2,Philippines,Single,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,0,0,2,1
+nickanonamoose,Male,3,United States,Single,I live alone,No job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,0,0,0,2,2
+zlhzyezte306kxrq2w0txrwdv,Male,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,No,0,1,2,2,2
+joaosilvasc,Male,2,Other,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,0,1,2
+xentricator,Male,2,Other,Single,I live alone,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,0,0,1,0
+xipheral_,Male,1,Philippines,Single,I live with others,No job,Sometimes,High,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,1,1
+rhysstever,Male,1,United States,Relationship,I live with others,Job,No,High,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,1,1
+maraudershields7,Male,1,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+usvw158syp460k9587irkm9sx,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,2
+klar2d2,Male,2,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,1,0,1
+12168987521,Male,2,Canada,Single,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,0,1
+123288627,Male,2,United States,Relationship,I live with others,No job,Regularly,Low,Yes,Yes,4-5 Hours,2-4 years,Yes,0,1,1,2,2
+rb4gz3k1i4q5fi742gixme8x7,Male,1,Other,Single,I live with others,No job,Regularly,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,2,2,2,1
+12163434342,Male,2,Brazil,Single,I live with others,No job,Sometimes,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,0,0
+lhg5ah7luczjo7xaqoavmk6vp,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,Less than 1 year,Yes,0,2,0,2,1
+ashwindcruz,Male,2,India,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,No,1,2,1,1,0
+infinitycheezit,Male,1,United States,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,2,0,1
+bklhoekcwn1fmgcu6pedo08tr,Male,2,India,Single,I live with others,Job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,0,1,1,1
+kehh07cmeor78hyy0h2exyzre,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,0,1,1
+habebj,Other,2,Germany,Single,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,2
+djrolling412,Male,2,United States,Single,I live with others,Job,Regularly,Low,Yes,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+xmorokei,Male,2,Germany,Single,I live alone,Job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,1,1,1,2,2
+uahc0ifyhi5obxf0dmjisbst4,Female,0,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,2,1,2,1
+22jya5dy7vo24tcrydew2cssq,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,1
+psychetrance,Female,2,Philippines,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,2
+enkisback,Male,1,Germany,Single,I live alone,No job,Regularly,Low,No,Yes,More than 6 Hours,2-4 years,Yes,0,2,1,1,1
+ko8hkidhfb75xad4zhhh1jubi,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,0,0,2,1
+11124959053,Male,3,Other,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,2-4 years,Yes,2,1,1,0,2
+1136099007,Other,2,Other,Relationship,I live alone,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,1,2
+12186179263,Female,2,Canada,Relationship,I live with others,Job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+h07uv1h6bpjrhg3agg30x4f5g,Male,1,United States,Relationship,I live alone,No job,Sometimes,High,No,Yes,Less than 1 Hour,2-4 years,Yes,2,1,1,1,2
+bearrgum,Other,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,1,2,1
+tj8x5nqpa1g71mo9i5slviyjx,Female,1,Other,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,1,2,0,1,2
+12168596323,Female,3,United States,Relationship,I live with others,Job,No,High,No,Yes,2-3 Hours,2-4 years,Yes,0,0,2,0,1
+spotted8,Other,1,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,0,1,2,2
+x_shane_power_x,Male,1,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,Less than 1 year,Yes,1,1,2,0,1
+maemi01,Female,3,United Kingdom,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,1,2,0,1
+mynameisnewo,Male,1,United States,Relationship,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+21rkoc7jyumjs2zmdxfperxjy,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,0,2
+gbgpfq3d4t5uz4ruo4b18za4j,Female,3,United States,Single,I live with others,No job,No,Low,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,2,1,2
+22d76wdgowivqfz6sejpyknra,Female,1,United States,Single,I live with others,No job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,2
+tyronitar,Male,1,United States,Single,I live with others,No job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+blank_vixen23,Female,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,2-4 years,No,0,2,1,0,2
+12132839773,Male,1,United States,Single,I live with others,No job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,0,1,1
+21adacbjc4sdr4346xzt3yluq,Female,2,United States,Single,I live with others,Job,Regularly,Low,Yes,No,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,1
+yvl1eo4rlkgrycy5c4m0hztra,Male,3,Canada,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+x4m7emge21ob6zthl8o7umsr6,Female,0,United States,Relationship,I live with others,No job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,0,1,1,2
+slorven96,Male,2,Other,Single,I live with others,Job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,1,0
+312qddbyt7i7xittkef34zfzjd7a,Female,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,1,2,2,1,2
+neugebauer.hannah,Female,2,Germany,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,2,1,2
+veeluttis,Female,1,Other,Single,I live with others,Job,Regularly,High,No,No,Less than 1 Hour,More than 5 years,Yes,2,1,2,1,1
+7lm7vqzy1xfhyk8baifjvxge3,Other,0,Germany,Single,I live with others,No job,No,Medium,Yes,No,Less than 1 Hour,2-4 years,No,0,0,0,2,2
+398744,Male,2,Canada,Single,I live with others,Job,Regularly,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,0,0,2,1
+33kru03puh70295nc7f9rzoi0,Male,1,United States,Relationship,I live alone,No job,Regularly,Medium,No,No,2-3 Hours,Less than 1 year,Yes,1,2,1,0,2
+manjyome,Male,2,Brazil,Single,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,1,2
+grt043s4hn8v3ugmud8mttuf6,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,1,1,1
+schubertethan,Male,2,Canada,Relationship,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,1,1,2,2
+cjxp6hhzrkftkvuoyaccjf36w,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,1
+wyeq0n49jxwydneopwh7vtfih,Male,0,Other,Single,I live with others,No job,No,High,No,No,More than 6 Hours,2-4 years,No,0,2,1,1,2
+21w4jzlamuqw44kad4ldlqbxi,Male,2,Other,Relationship,I live with others,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,0,2,2,0,2
+grizzledgamer3,Male,1,United States,Single,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,0,1
+1215515254,Male,3,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,1,2
+316mjw3uylpln6toyvewrbcgwb5q,Male,0,United States,Single,I live with others,Job,Regularly,High,No,No,4-5 Hours,2-4 years,Yes,0,1,1,0,2
+87m7hl7optntwe7xhzab50xja,Male,1,Other,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,0,1,1,2,1
+princess.of.darkness,Female,2,Brazil,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,Less than 1 year,No,0,2,2,0,2
+sbx6vqoezhrjgnj2f1eu4amk9,Female,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,0,2,1,0,2
+leevi.riikonen,Male,1,Other,Single,I live with others,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,2,0,0,0,1
+792u50khxoqq0okxnu7ktypry,Male,0,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,1,1,1,1
+ml22fnhf07dqwo4he3x8x03j1,Male,0,Other,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,No,1,1,1,1,0
+5lcywcasa1n8946j48uz2ctt3,Male,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,2
+cronsons,Male,1,Germany,Single,I live with others,No job,No,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,0,2,0,0,2
+cboyle623,Male,1,United States,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,1,2
+carnivorousmower,Male,3,Other,Relationship,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,2,1,1,1
+lpyy6d2wrcwlk030uzu0lwj36,Male,0,Australia,Single,I live with others,No job,Regularly,High,No,No,Less than 1 Hour,More than 5 years,No,1,1,1,1,1
+srevette94,Male,2,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,2
+2vf3pkyv5b7fti570r06l573f,Male,1,Other,Single,I live with others,No job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,0,0,1
+eyckpom6ohc3zmpr51exis1eb,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,2,0,1,0
+k8aqbusagox35eafsl4tircc4,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,Less than 1 year,Yes,0,1,1,0,1
+x1aurvva7p4o05nbjxry0r7jf,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,1,1,1
+8uuzps5jc0xyj712zn6882jqc,Male,1,Germany,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,No,0,1,1,2,1
+profcrisis,Female,1,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,More than 5 years,Yes,0,2,2,2,1
+31xyb7pg36aqxdqdowbyl44wktj4,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,1
+iew2iewwh766ecaxq6qn30x2t,Male,1,Other,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,Less than 1 year,No,1,1,0,1,2
+scarylemon,Female,2,United Kingdom,Single,I live with others,Job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,2,1
+htqa8i8h9lebmeg66p0jmyia1,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,Yes,1,1,1,1,2
+buzgd1wjvddjmov7n07yn7t1g,Male,0,Other,Relationship,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,Less than 1 year,Yes,0,2,0,2,2
+9noibekonk6e8mwmc4lzqmjd6,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,1
+martitacost,Female,2,Other,Relationship,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,2,1,1,1,2
+giomaggio98,Female,1,Italy,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,No,2,2,1,1,2
+thaareneew,Female,2,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,1,1
+12138512467,Female,3,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,1,1,1,2
+francisca99.gp,Female,1,Italy,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,More than 5 years,No,2,2,0,0,1
+sissitomix,Female,2,Italy,Relationship,I live with others,Job,Regularly,Low,Yes,Yes,2-3 Hours,More than 5 years,No,2,2,2,0,2
+noonecaresmichela,Female,2,Italy,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,More than 5 years,No,2,2,2,2,1
+lisa.beckman,Female,2,Other,Relationship,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,2,2,2,0,1
+cvt2cefx04w5upxxd852x85px,Female,1,Philippines,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+veripu,Female,2,Italy,Relationship,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,No,1,1,0,1,1
+fd4i1g2wdyatxpgm3jvr37pw0,Female,2,Italy,Relationship,I live with others,No job,No,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,0,1,1,2
+31ehn7h4h6dedbdnidfmst5kgzxq,Female,1,Other,Relationship,I live with others,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,2,2,1,2,2
+rubyfruits,Female,2,United States,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,2,2,0
+thegirlyouneverknew,Female,3,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,0,1,0,2,1
+ecthcku4qgt2yddd6x8weogkp,Female,2,Other,Relationship,I live with others,No job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+carnuatus,Female,3,United States,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,0,2,1,1
+internet.kayla,Female,1,Canada,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,2,1,2
+1267051802,Female,1,United States,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,2
+mcqmksvl5bec82pd1g2iaa46b,Female,0,India,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,No,0,1,0,2,1
+serinach99,Female,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,2,1,1
+uumvfnw2vj3z1jnmojipzx6j5,Female,1,Other,Single,I live alone,Job,No,Medium,No,No,2-3 Hours,2-4 years,No,0,2,1,1,2
+thelegopharaoh,Female,3,United States,Relationship,I live with others,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+smo9oibmicpvxwt4dj7hsu6mz,Female,1,Italy,Relationship,I live with others,No job,Regularly,Medium,Yes,No,4-5 Hours,2-4 years,Yes,2,1,1,1,0
+sara.tacchetto,Female,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,2,1,2
+12137199052,Female,2,United States,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,1,2,2,2
+nnx9r202v5nvfqqf3scl53j72,Female,3,Canada,Relationship,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,2,2,1,0
+213lattfweinascvx7kgs4wsa,Female,1,Italy,Relationship,I live alone,No job,Sometimes,Medium,No,Yes,Less than 1 Hour,2-4 years,No,0,2,1,2,1
+rin-chaaaan,Female,2,Other,Single,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,No,2,1,1,2,2
+cof3kifbn6fz4pwz95oux2q8m,Female,2,Brazil,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,No,0,1,1,0,2
+k7uem0k1gd49i5m2ou9bsit9z,Female,0,Germany,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,Less than 1 year,Yes,1,1,1,2,2
+j41k7acm5f2f8n7b87s7dfizj,Female,1,Other,Single,I live alone,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,No,0,0,1,1,2
+micaavila99,Female,1,Other,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,2,1
+12160360380,Female,1,Australia,Single,I live alone,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,0,1,1,2
+12157108657,Female,2,Other,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+landrofler,Female,1,Other,Single,I live alone,No job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,1,1
+cawu8h33zbbjxbktzrin1oaz4,Female,2,United States,Relationship,I live alone,No job,No,Low,No,No,2-3 Hours,More than 5 years,Yes,0,0,2,2,2
+skyotter,Female,2,Italy,Relationship,I live with others,No job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,1,1,0,2,2
+czarina.nikki9,Female,1,Philippines,Single,I live with others,No job,Sometimes,Low,No,Yes,Less than 1 Hour,2-4 years,No,0,0,1,1,2
+m1p46mn6heejzgxkibxsqbq70,Female,0,Italy,Single,I live with others,No job,No,Medium,No,Yes,2-3 Hours,2-4 years,No,0,1,1,2,1
+f5ddmpb8vlm2y634ganfa2pfl,Female,1,Other,Single,I live alone,No job,Sometimes,High,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+daniela101999,Female,1,Other,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,1,0,2,1
+7ghj6ppmry0o3klyhu7e41y9p,Female,0,Other,Single,I live with others,No job,No,Low,No,No,4-5 Hours,2-4 years,No,0,2,2,1,1
+tyaqp8j3jawuf2qtqtqgg0zkn,Female,1,Other,Single,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,1
+zsahime,Female,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,0,1,2,2
+nikki.rae.cleveland,Female,3,Canada,Relationship,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,2,1,2,1,1
+11138848924,Female,2,Other,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,0,1,1,2,2
+mantisabel,Female,1,India,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,0,0,2,2,2

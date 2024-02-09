@@ -29,10 +29,10 @@ def load_data(attribute):
         raise Exception("Invalid attribute to infer")
  
     #open playlist dataset and ground truth dataset
-    playlist_df = pd.read_csv('./Datasets/df_playlists_FIXED.csv')
+    playlist_df = pd.read_csv('./Datasets/df_playlists.csv')
     playlist_df['p_country'] = playlist_df['country']
     playlist_df.drop(['country'], axis = 1, inplace=True)
-    gt_df = pd.read_csv('./Datasets/user_targets_FIXED.csv')
+    gt_df = pd.read_csv('./Datasets/user_targets.csv')
     
     #remove from the playlists all those not belonging to any remaining user
     usersid = list(set(gt_df["id_owner"]))

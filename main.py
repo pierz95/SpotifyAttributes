@@ -10,7 +10,7 @@ import torch
 import data_handler
 import baselines
 import deepset
-import GNNdeepset
+
 
 
 parser = argparse.ArgumentParser(
@@ -43,9 +43,6 @@ def run_split(config, df, Xf, yf, train_id, val_id, test_id, iter):
     if config['classifiers']['deepset']:
         split_results['deepset'] = deepset.exec_deepset(config, df, Xf, yf, train_id, val_id, test_id, exec_name = iter, device = device)
 
-    if config['classifiers']['graph_deepset']:
-        split_results['graph_deepset'] = graph_deepset.exec_graph_deepset(config, df, Xf, yf, train_id, val_id, test_id, exec_name = iter)
-    
 
     return split_results
 
