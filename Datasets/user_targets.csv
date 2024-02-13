@@ -1,0 +1,740 @@
+,id_owner,gender,age,country,marital_status,live_with,occupation,sport,economic,smoke,alchol,spotify_usage_hours,spotify_usage_years,spotify_premium,extraversion,agreeableness, conscientiousness,neuroticism,openness
+0,0,Male,2,Italy,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,0,1,1,1,1
+1,1,Female,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,1
+2,2,Male,1,Italy,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,2-4 years,No,1,2,1,2,2
+3,3,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,0,0,2
+4,4,Female,1,Italy,Relationship,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,No,1,2,1,2,2
+5,5,Male,2,Italy,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,No,0,1,1,0,1
+6,6,Male,1,Italy,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,0,2,2,0,1
+7,7,Female,2,Italy,Relationship,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,2,1,2,2,1
+8,8,Male,2,Italy,Single,I live with others,No job,Regularly,Low,No,No,Less than 1 Hour,More than 5 years,No,2,0,1,2,2
+9,9,Female,2,Italy,Relationship,I live with others,No job,No,High,No,No,Less than 1 Hour,More than 5 years,No,0,1,1,2,2
+10,10,Male,2,Italy,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,2,2
+11,11,Female,1,Italy,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,2,1
+12,12,Other,0,Brazil,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,2,1,1,2
+13,13,Female,1,Italy,Single,I live with others,No job,No,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,2,1
+14,14,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,2,1
+15,15,Female,1,Other,Relationship,I live with others,Job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,0,1,2,0,1
+16,16,Male,2,United Kingdom,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,1
+17,17,Male,1,Philippines,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,Less than 1 year,Yes,0,1,1,2,1
+18,18,Female,3,Italy,Single,I live alone,Job,Sometimes,Medium,No,Yes,2-3 Hours,Less than 1 year,Yes,1,2,1,0,2
+19,19,Male,1,United States,Single,I live with others,No job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,1,1
+20,20,Male,2,Italy,Relationship,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,0,1,2,1
+21,21,Male,2,Italy,Single,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,0,1,1,2
+22,22,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,1
+23,23,Male,2,Italy,Single,I live with others,No job,Regularly,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,1,1
+24,24,Male,1,Italy,Relationship,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,1,2
+25,25,Male,2,India,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+26,26,Male,1,Other,Single,I live alone,No job,Sometimes,Low,No,No,2-3 Hours,2-4 years,No,0,2,1,1,2
+27,27,Male,2,Other,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,1,2
+28,28,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,0,2,2,0,0
+29,29,Male,1,Other,Relationship,I live with others,No job,Regularly,Low,No,Yes,4-5 Hours,2-4 years,Yes,1,2,1,0,1
+30,30,Female,1,Australia,Single,I live with others,No job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,1,1
+31,31,Male,1,Italy,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,0,1,2
+32,32,Male,2,Other,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+33,33,Female,2,Other,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,2,1,1,0,2
+34,34,Female,2,Other,Single,I live alone,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,2,1,2
+35,35,Male,1,Germany,Single,I live with others,No job,Regularly,High,No,Yes,Less than 1 Hour,2-4 years,Yes,1,1,1,0,2
+36,36,Male,1,Brazil,Single,I live with others,Job,No,High,No,No,Less than 1 Hour,More than 5 years,Yes,0,2,1,1,1
+37,37,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,1,2,1,0,0
+38,38,Male,2,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,2,0,1
+39,39,Male,1,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,1,2
+40,40,Female,2,Other,Relationship,I live alone,Job,No,High,No,Yes,4-5 Hours,2-4 years,No,0,1,1,0,1
+41,41,Other,0,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+42,42,Male,1,Other,Relationship,I live with others,No job,Regularly,High,No,Yes,More than 6 Hours,2-4 years,No,1,0,1,0,2
+43,43,Male,3,Canada,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,0,2
+44,44,Male,3,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,0,1
+45,45,Male,0,United States,Single,I live with others,No job,No,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,2
+46,46,Male,2,Other,Single,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,2,2
+47,47,Male,1,United States,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,0,1,0,0,1
+48,48,Male,1,Canada,Relationship,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,Yes,1,2,1,1,1
+49,49,Female,1,Other,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,1,2,1,1,2
+50,50,Male,2,United States,Single,I live with others,Job,No,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,1
+51,51,Female,2,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,2,1,2
+52,52,Male,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,0,2,1,2,2
+53,53,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,1,1
+54,54,Male,1,United States,Single,I live with others,Job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,0,2,2,2,0
+55,55,Male,2,Germany,Single,I live alone,Job,Regularly,High,No,No,4-5 Hours,More than 5 years,No,2,2,1,0,2
+56,56,Female,3,Other,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,2
+57,57,Male,1,United States,Single,I live with others,No job,No,Low,Yes,No,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+58,58,Male,2,Australia,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,2,0
+59,59,Male,1,Philippines,Relationship,I live with others,No job,Regularly,High,Yes,No,2-3 Hours,More than 5 years,Yes,1,1,2,1,1
+60,60,Male,1,United Kingdom,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,0,2
+61,61,Male,2,Germany,Relationship,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+62,62,Male,3,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,2,1,1,1
+63,63,Male,1,Other,Single,I live with others,No job,Regularly,Low,Yes,Yes,Less than 1 Hour,2-4 years,No,0,1,1,1,2
+64,64,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,2-4 years,Yes,0,2,1,1,2
+65,65,Male,2,Other,Single,I live alone,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,1
+66,66,Male,0,United Kingdom,Relationship,I live with others,No job,Sometimes,High,No,No,2-3 Hours,Less than 1 year,Yes,0,1,1,1,1
+67,67,Male,2,Other,Single,I live alone,Job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,2
+68,68,Male,1,United Kingdom,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,More than 5 years,No,1,2,1,2,0
+69,69,Male,2,Other,Single,I live alone,Job,Regularly,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+70,70,Male,2,Philippines,Relationship,I live with others,Job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+71,71,Male,1,Germany,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,No,0,2,1,1,1
+72,72,Male,3,Australia,Single,I live with others,Job,No,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,0,1
+73,73,Male,0,India,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,1,1,1
+74,74,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,Less than 1 year,No,0,2,0,2,1
+75,75,Male,1,Other,Single,I live alone,Job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,2
+76,76,Male,2,Other,Single,I live with others,Job,Sometimes,High,No,No,2-3 Hours,2-4 years,No,0,1,2,1,2
+77,77,Male,0,United Kingdom,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,Less than 1 year,No,0,0,0,1,2
+78,78,Male,1,Germany,Single,I live with others,No job,No,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,0,1
+79,79,Male,1,Other,Single,I live with others,Job,No,Low,No,Yes,Less than 1 Hour,2-4 years,Yes,1,2,1,1,2
+80,80,Male,2,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+81,81,Male,0,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,0,2,1
+82,82,Male,2,Germany,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,0,0,1,2
+83,83,Male,2,Brazil,Relationship,I live with others,Job,Regularly,Medium,Yes,No,Less than 1 Hour,More than 5 years,Yes,2,1,0,0,2
+84,84,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,0,1,2,2
+85,85,Male,1,Philippines,Relationship,I live with others,No job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+86,86,Female,0,United States,Relationship,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,No,1,1,1,2,1
+87,87,Male,1,Germany,Single,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,1
+88,88,Male,1,United States,Single,I live with others,Job,No,Low,Yes,No,More than 6 Hours,2-4 years,Yes,0,1,1,2,2
+89,89,Male,1,Other,Single,I live with others,Job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,1,1,2,1,2
+90,90,Male,1,Other,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,No,0,1,1,1,1
+91,91,Female,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,1,1,2,1
+92,92,Male,2,Other,Relationship,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,1,1
+93,93,Male,1,Brazil,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,No,0,2,1,1,0
+94,94,Male,1,Other,Single,I live alone,No job,Sometimes,Low,No,No,2-3 Hours,More than 5 years,Yes,0,2,1,1,1
+95,95,Male,0,Philippines,Single,I live with others,No job,Regularly,High,No,Yes,4-5 Hours,Less than 1 year,Yes,1,1,1,2,0
+96,96,Male,1,Other,Single,I live with others,No job,Sometimes,High,Yes,Yes,4-5 Hours,2-4 years,Yes,2,2,2,0,2
+97,97,Male,2,Canada,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+98,98,Male,1,Philippines,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,0,1,1
+99,99,Male,0,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,0,1,1,2,0
+100,100,Male,1,United States,Single,I live with others,Job,No,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,1
+101,101,Male,1,Australia,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+102,102,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,2,1,2
+103,103,Male,1,Other,Single,I live with others,No job,Regularly,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,2,0,2,2
+104,104,Male,0,United States,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,Less than 1 year,No,0,0,1,2,1
+105,105,Male,0,United States,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,Less than 1 year,Yes,1,1,1,0,1
+106,106,Male,1,Philippines,Single,I live with others,No job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,0,1,2
+107,107,Male,2,Other,Single,I live alone,Job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,1,2,1,2
+108,108,Female,2,Other,Relationship,I live with others,Job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,1,0,0,2,0
+109,109,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+110,110,Male,1,Other,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,2-4 years,No,2,2,1,1,2
+111,111,Female,1,United Kingdom,Single,I live with others,Job,No,Low,No,Yes,4-5 Hours,2-4 years,Yes,0,1,1,2,0
+112,112,Male,1,Germany,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,1,1,1,0
+113,113,Male,2,United States,Relationship,I live with others,Job,No,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,0
+114,114,Male,1,Australia,Relationship,I live with others,No job,Sometimes,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,0,1,0,1
+115,115,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,Yes,1,1,2,0,1
+116,116,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,Less than 1 year,Yes,0,1,0,1,2
+117,117,Male,2,United Kingdom,Relationship,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,1,1
+118,118,Male,1,Other,Single,I live alone,Job,Sometimes,Low,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,1,0,1,2
+119,119,Male,1,United States,Single,I live with others,Job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,2,2,1,2
+120,120,Male,2,Other,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,2
+121,121,Male,2,Other,Single,I live with others,Job,No,High,No,Yes,2-3 Hours,2-4 years,Yes,0,1,0,1,2
+122,122,Male,2,Other,Single,I live with others,Job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,0,2,1,1,1
+123,123,Male,1,Other,Single,I live alone,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,1
+124,124,Male,1,United States,Single,I live alone,No job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,1,2,1,0,1
+125,125,Male,0,Other,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,0,2,0,2,0
+126,126,Male,1,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,1,1,0,1,2
+127,127,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,Less than 1 year,Yes,0,2,0,1,1
+128,128,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,1,2
+129,129,Male,0,India,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,0,1
+130,130,Male,1,Other,Relationship,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,1
+131,131,Male,0,India,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,Less than 1 year,No,1,2,1,1,1
+132,132,Female,2,United States,Single,I live with others,Job,No,Low,No,No,Less than 1 Hour,2-4 years,No,0,1,1,2,1
+133,133,Male,0,Other,Single,I live with others,No job,Regularly,Low,No,No,4-5 Hours,More than 5 years,Yes,1,1,1,2,1
+134,134,Male,0,United States,Single,I live with others,No job,No,High,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,1
+135,135,Female,1,Philippines,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,2
+136,136,Male,3,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,1,1,2,2
+137,137,Male,1,Other,Single,I live with others,Job,No,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,0,1,1
+138,138,Male,1,United States,Single,I live with others,No job,Regularly,High,No,No,More than 6 Hours,More than 5 years,No,2,1,1,0,2
+139,139,Male,0,United States,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,0,0
+140,140,Male,0,Other,Single,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,0,1
+141,141,Male,1,Philippines,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,1
+142,142,Male,0,Other,Single,I live with others,No job,Regularly,High,No,Yes,Less than 1 Hour,2-4 years,Yes,1,0,1,1,2
+143,143,Male,0,Other,Single,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,2-4 years,No,1,1,0,1,2
+144,144,Male,1,Canada,Single,I live with others,No job,Sometimes,High,No,No,More than 6 Hours,2-4 years,Yes,0,1,2,1,1
+145,145,Male,0,Other,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,1,2,1,2,2
+146,146,Male,0,Other,Single,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,No,0,0,1,2,1
+147,147,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,No,0,1,0,0,0
+148,148,Male,1,Canada,Single,I live alone,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+149,149,Male,0,Australia,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,2,0,1,1
+150,150,Female,2,Germany,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,2,2,0,1
+151,151,Male,0,Australia,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,No,0,1,2,1,1
+152,152,Male,1,United States,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,0,0,1
+153,153,Male,3,Other,Single,I live alone,No job,Sometimes,Low,Yes,No,Less than 1 Hour,2-4 years,No,2,1,2,2,1
+154,154,Female,2,Other,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+155,155,Male,2,United States,Relationship,I live with others,Job,No,High,Yes,Yes,Less than 1 Hour,2-4 years,Yes,2,1,1,0,1
+156,156,Female,1,United States,Relationship,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,1,1,1
+157,157,Female,1,Other,Single,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,Less than 1 year,No,1,1,1,1,1
+158,158,Female,3,United Kingdom,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,1
+159,159,Female,3,Other,Single,I live alone,Job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,2,1
+160,160,Male,2,Other,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,0,2,1
+161,161,Female,2,United Kingdom,Single,I live with others,Job,No,High,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,2,2
+162,162,Female,2,United States,Relationship,I live with others,No job,No,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,1,2
+163,163,Female,3,United States,Single,I live with others,Job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,0,0,1,1,1
+164,164,Male,1,Germany,Relationship,I live with others,No job,Regularly,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+165,165,Female,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,0,1,1
+166,166,Male,1,Other,Single,I live with others,No job,Sometimes,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,0,1,2,2
+167,167,Female,1,Other,Relationship,I live with others,No job,Sometimes,High,No,No,4-5 Hours,More than 5 years,Yes,1,2,1,0,2
+168,168,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,0
+169,169,Female,2,Canada,Single,I live alone,Job,Regularly,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,1,2,2,2
+170,170,Other,2,Brazil,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,1,0,1,2,2
+171,171,Female,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,No,0,1,1,2,2
+172,172,Male,2,Other,Single,I live alone,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+173,173,Female,1,United States,Single,I live with others,No job,No,High,No,No,More than 6 Hours,2-4 years,Yes,1,2,1,2,2
+174,174,Male,1,Germany,Single,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,1,0
+175,175,Male,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,0,2,2
+176,176,Male,1,Other,Single,I live alone,No job,No,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,0,1
+177,177,Female,0,Other,Single,I live with others,No job,Regularly,High,No,No,Less than 1 Hour,2-4 years,No,1,0,1,0,0
+178,178,Female,2,Italy,Single,I live with others,Job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,2,1,0,1
+179,179,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,2,2,1,2,2
+180,180,Female,2,Italy,Relationship,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,2,1,2,1,2
+181,181,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,2,0,1,1
+182,182,Female,1,Italy,Relationship,I live with others,No job,Sometimes,High,Yes,Yes,2-3 Hours,2-4 years,Yes,1,0,2,2,1
+183,183,Female,2,Other,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,1,2,2
+184,184,Male,1,Italy,Single,I live with others,No job,No,Low,No,Yes,2-3 Hours,Less than 1 year,No,1,2,1,0,1
+185,185,Male,2,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,2,1,1,2
+186,186,Female,1,Italy,Relationship,I live with others,No job,No,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,2,1,1,1
+187,187,Male,2,Italy,Relationship,I live with others,No job,Regularly,Low,No,Yes,2-3 Hours,2-4 years,No,1,2,1,1,1
+188,188,Male,2,Other,Relationship,I live with others,Job,Regularly,High,No,No,4-5 Hours,More than 5 years,Yes,1,1,2,0,1
+189,189,Male,2,Other,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,2-4 years,No,2,1,1,0,2
+190,190,Male,2,Italy,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,2,2,1
+191,191,Male,2,Italy,Relationship,I live alone,No job,Regularly,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,2,2,2,2
+192,192,Male,1,Italy,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+193,193,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,0,2
+194,194,Female,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,1,1,2,1,2
+195,195,Male,2,Italy,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,No,0,1,1,2,1
+196,196,Male,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,Less than 1 year,Yes,2,1,1,2,2
+197,197,Male,1,Italy,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,No,0,1,1,2,1
+198,198,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+199,199,Male,2,Italy,Relationship,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,2,1
+200,200,Male,1,Italy,Relationship,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,2,2,0,2
+201,201,Male,1,Italy,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,0,0,1,0
+202,202,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,2
+203,203,Male,2,Italy,Single,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,1,0,1
+204,204,Male,1,Italy,Single,I live alone,No job,Sometimes,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,2
+205,205,Female,3,Italy,Single,I live alone,Job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,1,1,1
+206,206,Male,1,Italy,Single,I live with others,No job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,1,1,2
+207,207,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,0,2,1,1
+208,208,Male,1,Italy,Single,I live with others,No job,No,Medium,Yes,No,2-3 Hours,More than 5 years,Yes,1,1,2,0,2
+209,209,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,0,2
+210,210,Male,1,Italy,Relationship,I live alone,No job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,1,1,1
+211,211,Male,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,2,1,1
+212,212,Male,2,Italy,Relationship,I live with others,Job,No,Low,Yes,Yes,Less than 1 Hour,2-4 years,No,1,1,2,2,1
+213,213,Male,2,Italy,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,2
+214,214,Male,1,Italy,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,1,1,1,2,1
+215,215,Female,1,Italy,Relationship,I live with others,No job,Regularly,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,0,1,1
+216,216,Male,1,Canada,Relationship,I live with others,Job,No,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,1,2
+217,217,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,No,0,1,0,0,1
+218,218,Male,1,United States,Relationship,I live with others,No job,Sometimes,Low,No,No,More than 6 Hours,More than 5 years,Yes,1,0,0,2,2
+219,219,Male,0,India,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,No,0,2,0,0,1
+220,220,Male,1,Germany,Single,I live with others,Job,No,Medium,No,No,Less than 1 Hour,Less than 1 year,No,0,2,1,1,1
+221,221,Male,1,United Kingdom,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,0,1,1
+222,222,Male,1,Other,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+223,223,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,1,1,1
+224,224,Female,1,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,Yes,0,1,0,1,0
+225,225,Male,1,Other,Single,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,0,1,1,1
+226,226,Male,1,United States,Single,I live with others,No job,Sometimes,Low,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,0,2,0
+227,227,Male,0,United States,Single,I live alone,Job,Sometimes,Low,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,0,2
+228,228,Male,1,United States,Single,I live with others,No job,Regularly,Low,Yes,No,2-3 Hours,More than 5 years,Yes,0,1,0,0,0
+229,229,Male,0,Other,Single,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,2
+230,230,Male,1,United Kingdom,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+231,231,Male,2,Other,Single,I live alone,Job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,1
+232,232,Male,1,Italy,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,Less than 1 Hour,Less than 1 year,No,0,2,1,1,1
+233,233,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,1
+234,234,Male,1,United States,Single,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,1,2,0,0,1
+235,235,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,0,1,1
+236,236,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,More than 5 years,Yes,1,1,1,2,1
+237,237,Female,0,United States,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+238,238,Other,1,United States,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,1,1,1,0
+239,239,Male,1,United States,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,1,1,1
+240,240,Male,1,Other,Single,I live with others,Job,Regularly,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,2,2,0,2,1
+241,241,Male,1,Canada,Single,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,0,0
+242,242,Male,0,Other,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+243,243,Male,0,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,Less than 1 year,No,0,1,1,1,1
+244,244,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,No,1,1,1,2,2
+245,245,Male,1,Germany,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,1,2,1,1,2
+246,246,Male,1,Other,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,2,1
+247,247,Male,1,United States,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+248,248,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,1
+249,249,Male,1,Other,Single,I live with others,No job,No,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,2,1
+250,250,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+251,251,Male,1,Italy,Single,I live with others,No job,Regularly,High,No,Yes,Less than 1 Hour,2-4 years,Yes,0,1,1,0,1
+252,252,Female,2,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,2,2,2,1,1
+253,253,Female,2,Philippines,Single,I live alone,No job,No,High,Yes,No,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,2
+254,254,Female,2,Germany,Relationship,I live with others,Job,Regularly,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,2,2,0,1
+255,255,Female,2,India,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+256,256,Male,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,1,1,1,1,2
+257,257,Male,1,United States,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,1,0
+258,258,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,2,2
+259,259,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,0,2
+260,260,Male,2,Other,Relationship,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,0,1
+261,261,Female,2,Other,Relationship,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,2,2
+262,262,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,Less than 1 year,No,0,0,1,0,2
+263,263,Male,1,Other,Single,I live with others,No job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,0,0,2,1
+264,264,Male,1,United States,Single,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,2-4 years,Yes,1,2,2,2,1
+265,265,Male,1,Other,Single,I live with others,No job,No,Medium,No,Yes,2-3 Hours,2-4 years,No,0,1,1,1,2
+266,266,Male,3,Other,Single,I live with others,Job,No,High,No,No,Less than 1 Hour,2-4 years,No,0,1,1,1,1
+267,267,Other,1,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,No,1,1,0,2,2
+268,268,Female,0,Philippines,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,More than 5 years,Yes,1,1,0,1,1
+269,269,Male,3,Brazil,Single,I live with others,Job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,2
+270,270,Male,0,Other,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,No,1,0,0,1,0
+271,271,Male,1,United States,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+272,272,Female,0,Philippines,Single,I live with others,No job,Regularly,High,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,2
+273,273,Male,1,United Kingdom,Relationship,I live alone,Job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,1,1,2,1,1
+274,274,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,2,0,1,0
+275,275,Male,1,United Kingdom,Relationship,I live with others,No job,No,Low,No,No,4-5 Hours,More than 5 years,Yes,2,1,1,1,2
+276,276,Male,1,Other,Single,I live with others,Job,Regularly,Low,No,Yes,2-3 Hours,2-4 years,No,1,2,1,1,1
+277,277,Male,2,Germany,Single,I live alone,Job,Sometimes,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,2,2,2,2
+278,278,Male,2,United States,Single,I live with others,Job,No,High,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,1,2,2
+279,279,Male,2,United States,Single,I live with others,Job,Sometimes,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+280,280,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,No,More than 6 Hours,2-4 years,Yes,2,2,0,2,1
+281,281,Male,2,Canada,Relationship,I live alone,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+282,282,Female,2,Other,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+283,283,Male,1,United States,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,0,0,2,0
+284,284,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+285,285,Male,2,United Kingdom,Single,I live alone,Job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,0,2
+286,286,Male,2,Other,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,No,1,0,1,0,1
+287,287,Male,2,United States,Single,I live alone,No job,Sometimes,Low,Yes,No,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+288,288,Male,1,Other,Single,I live with others,Job,Sometimes,Low,Yes,No,2-3 Hours,2-4 years,No,1,1,1,1,1
+289,289,Female,1,Australia,Single,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,2,2,1,1,2
+290,290,Male,2,United Kingdom,Single,I live with others,Job,Regularly,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,1
+291,291,Male,1,United States,Relationship,I live with others,Job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,1,2,1,1
+292,292,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,1,2,1,1
+293,293,Male,2,Canada,Relationship,I live with others,Job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,0,2,1,1
+294,294,Male,1,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,2,0,2
+295,295,Male,1,Australia,Relationship,I live with others,No job,Regularly,High,Yes,No,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+296,296,Male,1,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,1,1,1,2
+297,297,Male,1,India,Single,I live with others,No job,Regularly,Low,No,No,Less than 1 Hour,Less than 1 year,No,0,2,1,1,1
+298,298,Male,3,Italy,Relationship,I live with others,No job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,2,2
+299,299,Male,2,Other,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+300,300,Male,1,Italy,Single,I live with others,No job,No,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,1,0,0,2,1
+301,301,Male,1,Brazil,Single,I live alone,No job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,2,0,1,2
+302,302,Male,1,India,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,Less than 1 year,No,1,1,1,1,1
+303,303,Male,1,Other,Relationship,I live alone,Job,No,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,1,1,1,0,1
+304,304,Male,3,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,2,1,1,1,1
+305,305,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,0,0,1
+306,306,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,0,1
+307,307,Other,2,Canada,Relationship,I live with others,No job,No,Low,No,No,Less than 1 Hour,2-4 years,Yes,0,2,1,1,2
+308,308,Male,1,United States,Relationship,I live with others,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,2,1,2
+309,309,Male,3,United States,Relationship,I live with others,Job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,1,1,0,2,2
+310,310,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,1
+311,311,Male,2,United States,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,0,2
+312,312,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,More than 6 Hours,2-4 years,No,1,2,1,0,1
+313,313,Male,1,United Kingdom,Single,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,1,1,0,1
+314,314,Male,2,Other,Single,I live with others,Job,No,High,No,Yes,2-3 Hours,2-4 years,No,0,1,1,0,1
+315,315,Male,1,United States,Single,I live with others,Job,No,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,2,2
+316,316,Male,1,United States,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,0
+317,317,Male,2,United States,Single,I live alone,Job,Regularly,Low,No,No,More than 6 Hours,More than 5 years,Yes,2,2,1,1,1
+318,318,Male,0,India,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,No,0,0,0,2,1
+319,319,Male,2,United Kingdom,Single,I live with others,No job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,1,1
+320,320,Male,2,Other,Single,I live alone,Job,Sometimes,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,1,2
+321,321,Male,1,United States,Single,I live with others,No job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,2,2
+322,322,Male,1,Other,Single,I live with others,No job,No,High,No,Yes,2-3 Hours,2-4 years,Yes,2,1,0,0,1
+323,323,Male,1,United States,Relationship,I live with others,Job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,1,2,1
+324,324,Male,1,United States,Single,I live with others,Job,No,Low,No,No,4-5 Hours,2-4 years,No,0,1,1,2,2
+325,325,Male,2,United States,Single,I live with others,Job,Sometimes,Low,Yes,No,More than 6 Hours,2-4 years,Yes,1,2,1,2,2
+326,326,Male,0,United States,Relationship,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,Yes,2,0,0,0,1
+327,327,Male,1,United States,Single,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,Less than 1 year,Yes,1,2,2,1,2
+328,328,Male,2,United Kingdom,Single,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,2-4 years,Yes,2,1,1,2,2
+329,329,Male,3,United States,Single,I live with others,Job,Sometimes,Low,Yes,Yes,4-5 Hours,2-4 years,Yes,2,2,0,0,2
+330,330,Male,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,2,2
+331,331,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+332,332,Female,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+333,333,Male,2,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,2,0,1
+334,334,Female,3,United States,Relationship,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,More than 5 years,No,0,1,0,2,1
+335,335,Female,1,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,0,2,1
+336,336,Female,2,Australia,Relationship,I live with others,No job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,0,1,2,1
+337,337,Male,3,United Kingdom,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,0,2
+338,338,Female,1,Other,Single,I live alone,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,0,1,1,2
+339,339,Female,1,Philippines,Single,I live with others,No job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,1,1
+340,340,Male,1,India,Single,I live with others,No job,Regularly,Low,No,No,2-3 Hours,2-4 years,No,0,1,0,2,2
+341,341,Male,2,United States,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,1,1
+342,342,Female,1,India,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,No,0,2,0,2,1
+343,343,Other,1,United States,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,2,2
+344,344,Female,1,Canada,Single,I live alone,Job,No,High,No,Yes,4-5 Hours,2-4 years,Yes,0,0,1,2,2
+345,345,Male,1,United States,Relationship,I live with others,No job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,0,0,2,1
+346,346,Female,2,Other,Relationship,I live with others,No job,No,High,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,1,2
+347,347,Male,2,United States,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+348,348,Male,3,United States,Single,I live with others,Job,Sometimes,Low,No,No,Less than 1 Hour,Less than 1 year,Yes,1,1,1,1,1
+349,349,Male,2,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,1,0,1,2
+350,350,Male,2,Other,Single,I live alone,Job,No,High,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,0,2
+351,351,Male,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,2,1,1,2
+352,352,Other,1,Italy,Single,I live with others,Job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+353,353,Male,1,Germany,Single,I live with others,No job,No,High,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,0,1
+354,354,Male,1,United States,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,2,2
+355,355,Male,1,Italy,Relationship,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,No,1,2,2,1,1
+356,356,Male,1,India,Single,I live alone,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,1
+357,357,Male,1,India,Single,I live with others,No job,Sometimes,Medium,Yes,No,2-3 Hours,2-4 years,Yes,0,2,2,2,1
+358,358,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,1,1
+359,359,Female,3,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,0,1
+360,360,Male,1,United Kingdom,Relationship,I live with others,Job,Sometimes,High,Yes,Yes,More than 6 Hours,More than 5 years,Yes,2,1,2,0,2
+361,361,Male,1,India,Relationship,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,0,1,1,1,2
+362,362,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,2,1,2,2
+363,363,Male,1,Other,Single,I live alone,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,1
+364,364,Female,1,Australia,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,2-4 years,Yes,0,2,1,1,2
+365,365,Female,0,Australia,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,2,1,0,1
+366,366,Male,1,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,1,1,2,1,2
+367,367,Male,0,United Kingdom,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,1,0,0,1,1
+368,368,Female,2,Canada,Relationship,I live with others,Job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,1,2,2
+369,369,Male,2,Other,Relationship,I live with others,Job,Regularly,High,Yes,Yes,2-3 Hours,2-4 years,Yes,2,2,1,0,1
+370,370,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,2,2,1,0,2
+371,371,Male,1,United States,Single,I live with others,No job,Regularly,Low,No,No,4-5 Hours,More than 5 years,Yes,1,1,2,2,2
+372,372,Female,0,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,Less than 1 year,No,1,1,0,2,0
+373,373,Female,2,Canada,Single,I live alone,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,2,2,2
+374,374,Female,1,Brazil,Relationship,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+375,375,Male,1,Brazil,Single,I live with others,Job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,0,1,1,1,1
+376,376,Female,3,United States,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,Less than 1 year,Yes,0,1,1,2,2
+377,377,Male,1,United States,Single,I live with others,Job,Sometimes,Low,No,No,2-3 Hours,More than 5 years,Yes,1,0,2,1,2
+378,378,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,2
+379,379,Male,1,United States,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,Less than 1 Hour,2-4 years,Yes,2,2,2,1,2
+380,380,Female,1,Other,Single,I live alone,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,0,1,1
+381,381,Male,2,Canada,Single,I live with others,Job,Sometimes,Medium,Yes,No,2-3 Hours,More than 5 years,Yes,0,2,1,2,2
+382,382,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,Yes,4-5 Hours,More than 5 years,Yes,2,2,2,0,1
+383,383,Male,2,United Kingdom,Single,I live alone,Job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,2,2,1,2
+384,384,Male,1,United States,Single,I live with others,No job,Sometimes,Low,No,No,More than 6 Hours,More than 5 years,Yes,1,0,0,0,2
+385,385,Male,2,United States,Relationship,I live with others,Job,Regularly,Low,No,Yes,4-5 Hours,More than 5 years,Yes,2,1,2,1,2
+386,386,Other,2,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,0,2,1,2,2
+387,387,Female,3,United States,Single,I live with others,Job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,2,2,1,1,1
+388,388,Other,0,Other,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,No,0,1,1,1,2
+389,389,Female,1,United States,Single,I live with others,Job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,1,2,2,2
+390,390,Female,0,United Kingdom,Relationship,I live with others,No job,Regularly,High,No,No,More than 6 Hours,More than 5 years,Yes,0,2,0,1,2
+391,391,Female,1,Canada,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,0,1,2,2
+392,392,Female,1,United States,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,No,0,1,2,1,2
+393,393,Male,1,Germany,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,2,1,2,1,2
+394,394,Female,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,0,1,2,2,0
+395,395,Male,2,Other,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,2,2,2,1,0
+396,396,Female,2,Other,Single,I live with others,Job,No,Medium,Yes,No,4-5 Hours,2-4 years,Yes,0,1,1,2,1
+397,397,Male,0,Canada,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,No,1,0,0,1,1
+398,398,Male,2,United States,Single,I live with others,Job,Regularly,Medium,Yes,Yes,More than 6 Hours,2-4 years,Yes,0,0,1,1,2
+399,399,Female,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+400,400,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,1,1
+401,401,Male,2,United States,Single,I live alone,Job,Sometimes,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,1,1
+402,402,Male,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,2
+403,403,Male,1,Australia,Single,I live with others,Job,Regularly,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+404,404,Male,1,Canada,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+405,405,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,2,1
+406,406,Female,1,Canada,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,2,1
+407,407,Male,1,United States,Single,I live with others,Job,Regularly,Low,No,No,More than 6 Hours,More than 5 years,Yes,0,1,0,1,1
+408,408,Female,2,Other,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,More than 5 years,No,1,2,1,0,1
+409,409,Male,2,United States,Single,I live alone,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,2,2,1,2
+410,410,Female,0,United States,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,1,1,2,2,0
+411,411,Female,1,Brazil,Single,I live alone,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+412,412,Female,0,Philippines,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,No,1,2,1,1,1
+413,413,Male,0,Canada,Single,I live with others,No job,Regularly,High,No,No,More than 6 Hours,2-4 years,No,2,1,0,1,2
+414,414,Male,3,Other,Single,I live alone,Job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,0,2,0,1
+415,415,Female,0,India,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,Yes,1,1,0,2,2
+416,416,Male,2,Other,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,More than 5 years,No,0,2,1,0,1
+417,417,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,No,1,1,1,2,1
+418,418,Female,0,Australia,Single,I live with others,Job,No,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,1,2,1
+419,419,Female,1,Other,Relationship,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,1
+420,420,Male,2,Canada,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,0,1,1,2,1
+421,421,Male,1,Other,Single,I live with others,No job,No,High,No,No,4-5 Hours,More than 5 years,Yes,1,2,1,1,1
+422,422,Male,1,Germany,Single,I live with others,No job,Regularly,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,1,2
+423,423,Male,3,Canada,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,0,1
+424,424,Female,1,India,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,1,0,2,2
+425,425,Female,0,United States,Single,I live with others,No job,No,Low,No,No,Less than 1 Hour,2-4 years,Yes,0,1,0,1,1
+426,426,Female,1,United States,Single,I live with others,Job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,2
+427,427,Other,0,United States,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,1
+428,428,Female,2,United States,Relationship,I live with others,Job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,0,1,2,1
+429,429,Female,1,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,2-4 years,No,0,1,1,2,2
+430,430,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,2,2,2,1,1
+431,431,Female,0,Canada,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,2,1,1,1,1
+432,432,Male,1,Australia,Single,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,2,1,2,2
+433,433,Female,3,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,0,1,1,2,2
+434,434,Female,3,Other,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,Less than 1 year,No,1,1,0,1,2
+435,435,Other,1,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,More than 5 years,Yes,1,0,1,2,2
+436,436,Male,2,Germany,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,2,1,2
+437,437,Female,1,Other,Single,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,No,0,1,2,1,2
+438,438,Male,3,Other,Relationship,I live with others,Job,Sometimes,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,1,2
+439,439,Male,0,Canada,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,1,0,1,1,2
+440,440,Female,0,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,Less than 1 year,No,0,1,0,2,2
+441,441,Female,1,Other,Single,I live alone,No job,Sometimes,High,Yes,Yes,4-5 Hours,2-4 years,Yes,2,2,1,1,1
+442,442,Female,2,Other,Single,I live with others,No job,Sometimes,High,Yes,Yes,2-3 Hours,Less than 1 year,Yes,2,1,1,2,1
+443,443,Other,2,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+444,444,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,2,2,1,1,2
+445,445,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,2,2,1,2,2
+446,446,Other,2,Germany,Relationship,I live with others,Job,Regularly,High,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,2,1,1
+447,447,Female,1,United States,Relationship,I live with others,Job,No,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,1,0,1,2,2
+448,448,Female,0,United Kingdom,Single,I live with others,No job,Sometimes,High,No,Yes,4-5 Hours,2-4 years,No,2,0,1,1,2
+449,449,Male,1,United States,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,1,0,2,2
+450,450,Other,1,Other,Relationship,I live with others,Job,No,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,2,1,0,2,2
+451,451,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,2,1
+452,452,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,0,1,1,0
+453,453,Other,0,United Kingdom,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+454,454,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+455,455,Female,3,United Kingdom,Relationship,I live with others,Job,No,Medium,Yes,Yes,2-3 Hours,2-4 years,No,1,2,1,2,1
+456,456,Male,3,Germany,Relationship,I live with others,Job,No,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,2,2
+457,457,Male,2,Other,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,1,0,2
+458,458,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,Less than 1 year,No,1,2,2,1,1
+459,459,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,1,2,2
+460,460,Female,1,Other,Single,I live alone,No job,Regularly,Low,No,Yes,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+461,461,Male,0,United States,Relationship,I live with others,No job,No,Medium,Yes,No,More than 6 Hours,2-4 years,Yes,0,0,1,2,1
+462,462,Female,3,United Kingdom,Relationship,I live with others,No job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,2,1,0,2
+463,463,Male,3,United Kingdom,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,1,1,2
+464,464,Male,1,Germany,Single,I live with others,No job,Regularly,Low,Yes,Yes,4-5 Hours,2-4 years,Yes,0,1,2,0,2
+465,465,Male,2,Other,Single,I live with others,No job,Sometimes,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,1,1,1
+466,466,Female,1,Philippines,Single,I live with others,Job,No,Low,No,No,4-5 Hours,More than 5 years,No,0,0,1,2,1
+467,467,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,No,1,1,1,2,2
+468,468,Male,3,Other,Relationship,I live with others,Job,Sometimes,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,1
+469,469,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,No,0,1,2,1,1
+470,470,Female,1,United States,Relationship,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,1,2
+471,471,Female,3,United States,Relationship,I live with others,Job,Sometimes,High,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,1,2,0,1
+472,472,Female,2,United Kingdom,Single,I live alone,Job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+473,473,Male,0,Other,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,Yes,1,1,1,0,2
+474,474,Other,3,United States,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,2,1,2
+475,475,Other,1,United States,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,2,1,2,1
+476,476,Male,3,United States,Relationship,I live with others,Job,No,Low,No,No,Less than 1 Hour,More than 5 years,No,0,1,1,1,1
+477,477,Other,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,1,2,2,2,2
+478,478,Male,1,United Kingdom,Single,I live with others,No job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,1
+479,479,Male,2,United States,Relationship,I live with others,Job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,1,1,2,1
+480,480,Male,1,United States,Single,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,1,1,1
+481,481,Male,0,United States,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,2,2,2
+482,482,Male,3,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,1,1,2
+483,483,Female,3,United States,Single,I live with others,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,1,1,2,2
+484,484,Female,2,Other,Relationship,I live with others,Job,Regularly,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+485,485,Male,0,United States,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,1,2
+486,486,Female,3,Other,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,2,2
+487,487,Male,2,Brazil,Single,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,1,0,2
+488,488,Female,0,United States,Single,I live with others,No job,Regularly,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,0,2,2
+489,489,Male,1,United States,Relationship,I live with others,Job,Regularly,Low,Yes,Yes,More than 6 Hours,2-4 years,Yes,1,1,1,2,2
+490,490,Male,3,Australia,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,2,1,1,0,1
+491,491,Male,2,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,2
+492,492,Male,1,United States,Single,I live with others,Job,No,High,No,No,2-3 Hours,2-4 years,Yes,0,2,1,1,2
+493,493,Female,2,Brazil,Relationship,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,1,2
+494,494,Female,0,Canada,Single,I live with others,No job,Regularly,High,No,No,4-5 Hours,Less than 1 year,No,0,1,2,2,2
+495,495,Female,1,Other,Single,I live alone,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,0,0,2,2
+496,496,Female,1,United States,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,2,1,1,2,2
+497,497,Male,1,Other,Single,I live with others,No job,No,Medium,No,No,4-5 Hours,Less than 1 year,Yes,1,2,1,1,0
+498,498,Male,1,Other,Relationship,I live alone,No job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,2,1,1,2
+499,499,Male,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,1
+500,500,Male,0,United States,Single,I live with others,No job,Regularly,Medium,Yes,No,2-3 Hours,2-4 years,No,1,1,1,1,2
+501,501,Male,1,United States,Relationship,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,1,0,2,1,2
+502,502,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,1,1,1,2
+503,503,Male,0,United States,Single,I live with others,Job,Regularly,Low,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,1,1
+504,504,Female,3,Other,Relationship,I live alone,No job,No,Low,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,2
+505,505,Male,2,Canada,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,0,1
+506,506,Female,3,Other,Single,I live with others,Job,Regularly,Low,No,No,Less than 1 Hour,More than 5 years,Yes,0,2,2,2,0
+507,507,Other,0,United Kingdom,Relationship,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,Yes,0,2,1,2,1
+508,508,Male,1,Other,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,2
+509,509,Female,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,1,2,2,2
+510,510,Female,0,United Kingdom,Relationship,I live with others,Job,No,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,1
+511,511,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,2,1
+512,512,Female,2,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,1,2,1,2,1
+513,513,Female,2,Australia,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,1
+514,514,Other,0,Australia,Relationship,I live with others,No job,No,High,Yes,No,4-5 Hours,2-4 years,Yes,2,1,1,1,1
+515,515,Female,0,United States,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,Less than 1 year,No,0,1,1,1,2
+516,516,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,2,0,1
+517,517,Male,2,United States,Single,I live alone,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,2
+518,518,Male,0,United States,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,1,1,1,1,2
+519,519,Male,1,United States,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+520,520,Other,1,United States,Single,I live with others,No job,No,Low,Yes,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,2,1
+521,521,Male,2,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,1,1
+522,522,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,0,1,2
+523,523,Male,3,Germany,Single,I live alone,Job,Sometimes,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,0,2
+524,524,Other,1,Canada,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,0,2
+525,525,Male,2,Germany,Relationship,I live with others,Job,No,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,2,1,1,0,2
+526,526,Female,1,United Kingdom,Single,I live with others,No job,No,Low,No,No,4-5 Hours,Less than 1 year,No,1,0,0,2,2
+527,527,Male,2,United States,Single,I live with others,No job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,0,1
+528,528,Male,0,Australia,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,2-4 years,Yes,1,1,1,2,2
+529,529,Female,1,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,2,1
+530,530,Female,1,Other,Single,I live with others,No job,No,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,0,2,0,2,1
+531,531,Male,1,United Kingdom,Single,I live with others,Job,No,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,0,2,1
+532,532,Female,0,United States,Single,I live with others,No job,No,Low,No,No,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+533,533,Male,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,No,2-3 Hours,2-4 years,No,0,2,2,2,2
+534,534,Male,0,United Kingdom,Single,I live with others,No job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+535,535,Male,1,Germany,Single,I live with others,No job,Sometimes,Low,No,No,4-5 Hours,2-4 years,No,1,0,1,1,2
+536,536,Male,0,Brazil,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,Less than 1 year,Yes,1,0,2,1,1
+537,537,Female,1,United States,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,More than 5 years,Yes,1,2,1,2,2
+538,538,Female,1,United States,Single,I live with others,No job,Sometimes,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,1,2
+539,539,Female,3,United Kingdom,Single,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,1,1
+540,540,Female,2,United States,Single,I live alone,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,2,2
+541,541,Male,2,United States,Single,I live alone,Job,No,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,0,2,0,2
+542,542,Male,1,Other,Relationship,I live with others,Job,Regularly,High,No,Yes,More than 6 Hours,Less than 1 year,Yes,1,1,1,1,2
+543,543,Male,1,India,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,2
+544,544,Male,3,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,1
+545,545,Female,3,Other,Relationship,I live with others,Job,Sometimes,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,1,0,2,2
+546,546,Female,2,United States,Relationship,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,0,2,0,2
+547,547,Male,2,Italy,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,2
+548,548,Male,1,Other,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,1,1
+549,549,Male,1,Italy,Single,I live with others,Job,No,Medium,Yes,Yes,4-5 Hours,2-4 years,Yes,0,2,0,2,1
+550,550,Male,2,United Kingdom,Relationship,I live with others,Job,No,High,No,Yes,More than 6 Hours,More than 5 years,Yes,2,2,1,0,2
+551,551,Male,3,United Kingdom,Relationship,I live with others,Job,Regularly,High,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,0,1,2
+552,552,Male,1,Brazil,Single,I live alone,No job,Sometimes,Low,No,No,Less than 1 Hour,More than 5 years,Yes,0,2,1,1,1
+553,553,Male,2,United States,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,1,1
+554,554,Male,1,Other,Relationship,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,0,1
+555,555,Male,1,Germany,Relationship,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,2,1,2,0,2
+556,556,Male,3,Other,Relationship,I live with others,Job,No,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,0,2
+557,557,Male,1,Other,Single,I live with others,No job,No,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,2,1,0,1
+558,558,Male,1,Other,Single,I live with others,Job,No,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,2,1
+559,559,Male,0,Other,Single,I live with others,Job,Regularly,High,No,No,2-3 Hours,More than 5 years,Yes,1,0,2,0,0
+560,560,Male,1,Other,Relationship,I live with others,Job,No,Medium,No,No,Less than 1 Hour,2-4 years,Yes,0,1,2,0,2
+561,561,Male,1,Other,Relationship,I live with others,No job,No,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,0,0,1
+562,562,Male,2,Other,Single,I live alone,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,0,1
+563,563,Male,1,Italy,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,More than 6 Hours,More than 5 years,No,2,2,0,0,0
+564,564,Male,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,1,0,2,2
+565,565,Male,2,United States,Relationship,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,Less than 1 year,Yes,1,2,1,0,2
+566,566,Male,0,Other,Single,I live alone,No job,Regularly,Medium,Yes,No,More than 6 Hours,More than 5 years,Yes,1,1,2,0,1
+567,567,Male,2,United States,Single,I live with others,Job,No,Low,No,No,4-5 Hours,More than 5 years,Yes,0,2,1,1,1
+568,568,Male,1,United Kingdom,Relationship,I live with others,Job,No,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,1,2,2
+569,569,Male,0,United Kingdom,Relationship,I live with others,No job,Regularly,High,No,No,2-3 Hours,More than 5 years,Yes,1,2,0,0,1
+570,570,Female,0,Other,Single,I live with others,No job,No,Low,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,2
+571,571,Male,1,United States,Single,I live with others,Job,No,Low,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,1,1
+572,572,Male,3,Other,Single,I live alone,Job,No,Medium,Yes,Yes,4-5 Hours,More than 5 years,Yes,1,1,1,0,2
+573,573,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,1,1,0,2
+574,574,Male,1,Italy,Single,I live with others,No job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,No,0,2,0,1,1
+575,575,Male,1,Other,Single,I live alone,Job,No,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,0,1,2,1
+576,576,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,2,1,0,0,2
+577,577,Male,2,Philippines,Single,I live with others,No job,Sometimes,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,1,1,1,1,1
+578,578,Male,2,United Kingdom,Single,I live with others,Job,Regularly,High,No,No,2-3 Hours,More than 5 years,Yes,2,1,2,0,1
+579,579,Male,2,United States,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,2,0,2
+580,580,Female,2,United States,Single,I live with others,No job,No,Low,No,No,2-3 Hours,2-4 years,Yes,2,2,1,2,2
+581,581,Male,2,United States,Relationship,I live alone,Job,Regularly,High,No,No,Less than 1 Hour,2-4 years,Yes,0,1,1,1,1
+582,582,Male,1,Other,Single,I live with others,No job,No,Low,No,No,4-5 Hours,2-4 years,Yes,2,1,1,2,2
+583,583,Male,3,Other,Relationship,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+584,584,Male,1,Philippines,Single,I live with others,No job,Regularly,Medium,Yes,Yes,More than 6 Hours,More than 5 years,Yes,2,1,1,0,1
+585,585,Male,2,Other,Relationship,I live with others,No job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,0,0,1
+586,586,Male,1,United States,Single,I live with others,No job,Regularly,High,Yes,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,1,2
+587,587,Male,2,Other,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,0,2,0,0,1
+588,588,Male,2,Other,Relationship,I live with others,Job,Regularly,High,No,No,Less than 1 Hour,2-4 years,Yes,1,2,2,2,1
+589,589,Male,3,Other,Single,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,1
+590,590,Male,2,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,0,1,1,1,1
+591,591,Male,1,Other,Single,I live with others,No job,No,High,No,No,More than 6 Hours,More than 5 years,No,0,1,1,0,2
+592,592,Male,1,United Kingdom,Relationship,I live with others,Job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,1
+593,593,Male,1,Philippines,Single,I live with others,No job,No,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,2,0,0,2
+594,594,Male,0,Other,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,Less than 1 year,No,1,1,1,0,2
+595,595,Male,2,United States,Single,I live with others,Job,No,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,2
+596,596,Male,1,Brazil,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+597,597,Male,1,United States,Single,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,2,2,0,2
+598,598,Male,1,Australia,Single,I live with others,Job,No,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+599,599,Male,3,Germany,Relationship,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,More than 5 years,Yes,2,2,1,0,1
+600,600,Male,0,Brazil,Single,I live with others,Job,No,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,1,1,1
+601,601,Male,2,Brazil,Relationship,I live with others,Job,Regularly,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,0,0,2
+602,602,Male,3,Germany,Single,I live alone,Job,Regularly,High,No,No,Less than 1 Hour,Less than 1 year,Yes,0,1,1,0,0
+603,603,Male,1,United States,Single,I live alone,No job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,0,2,1
+604,604,Male,2,United States,Relationship,I live alone,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,2,2
+605,605,Male,2,Philippines,Single,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,0,0,2,1
+606,606,Male,3,United States,Single,I live alone,No job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,0,0,0,2,2
+607,607,Male,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,No,0,1,2,2,2
+608,608,Male,2,Other,Relationship,I live with others,No job,Sometimes,Medium,No,Yes,More than 6 Hours,More than 5 years,Yes,1,1,0,1,2
+609,609,Male,2,Other,Single,I live alone,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,0,0,1,0
+610,610,Male,1,Philippines,Single,I live with others,No job,Sometimes,High,No,Yes,More than 6 Hours,More than 5 years,Yes,1,2,1,1,1
+611,611,Male,1,United States,Relationship,I live with others,Job,No,High,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,1,1
+612,612,Male,1,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,1,1,2
+613,613,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,1,1,2,2
+614,614,Male,2,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,2,2,1,0,1
+615,615,Male,2,Canada,Single,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,0,1
+616,616,Male,2,United States,Relationship,I live with others,No job,Regularly,Low,Yes,Yes,4-5 Hours,2-4 years,Yes,0,1,1,2,2
+617,617,Male,1,Other,Single,I live with others,No job,Regularly,Low,No,No,Less than 1 Hour,Less than 1 year,No,1,2,2,2,1
+618,618,Male,2,Brazil,Single,I live with others,No job,Sometimes,High,Yes,Yes,2-3 Hours,More than 5 years,Yes,1,1,0,0,0
+619,619,Male,1,Other,Single,I live with others,No job,Sometimes,Low,No,No,2-3 Hours,Less than 1 year,Yes,0,2,0,2,1
+620,620,Male,2,India,Relationship,I live with others,Job,Regularly,High,No,Yes,2-3 Hours,More than 5 years,No,1,2,1,1,0
+621,621,Male,1,United States,Single,I live with others,Job,Sometimes,Medium,Yes,Yes,2-3 Hours,More than 5 years,Yes,2,1,2,0,1
+622,622,Male,2,India,Single,I live with others,Job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,0,1,1,1
+623,623,Male,1,Canada,Single,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,0,1,1
+624,624,Other,2,Germany,Single,I live with others,Job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,0,1,0,2,2
+625,625,Male,2,United States,Single,I live with others,Job,Regularly,Low,Yes,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,1
+626,626,Male,2,Germany,Single,I live alone,Job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,1,1,1,2,2
+627,627,Female,0,Other,Single,I live with others,No job,No,Medium,No,No,Less than 1 Hour,2-4 years,No,0,2,1,2,1
+628,628,Male,2,United States,Single,I live alone,Job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,1,1,1
+629,629,Female,2,Philippines,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,2
+630,630,Male,1,Germany,Single,I live alone,No job,Regularly,Low,No,Yes,More than 6 Hours,2-4 years,Yes,0,2,1,1,1
+631,631,Female,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,Less than 1 Hour,More than 5 years,No,0,0,0,2,1
+632,632,Male,3,Other,Single,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,2-4 years,Yes,2,1,1,0,2
+633,633,Other,2,Other,Relationship,I live alone,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,1,2
+634,634,Female,2,Canada,Relationship,I live with others,Job,Sometimes,High,No,Yes,4-5 Hours,More than 5 years,Yes,0,1,1,2,1
+635,635,Male,1,United States,Relationship,I live alone,No job,Sometimes,High,No,Yes,Less than 1 Hour,2-4 years,Yes,2,1,1,1,2
+636,636,Other,1,Other,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,1,2,1
+637,637,Female,1,Other,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,1,2,0,1,2
+638,638,Female,3,United States,Relationship,I live with others,Job,No,High,No,Yes,2-3 Hours,2-4 years,Yes,0,0,2,0,1
+639,639,Other,1,United States,Relationship,I live with others,Job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,0,1,2,2
+640,640,Male,1,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,4-5 Hours,Less than 1 year,Yes,1,1,2,0,1
+641,641,Female,3,United Kingdom,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,2,1,2,0,1
+642,642,Male,1,United States,Relationship,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,2,1,1,2
+643,643,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,Yes,0,2,1,0,2
+644,644,Female,3,United States,Single,I live with others,No job,No,Low,No,Yes,Less than 1 Hour,More than 5 years,No,1,1,2,1,2
+645,645,Female,1,United States,Single,I live with others,No job,Sometimes,Low,No,Yes,4-5 Hours,More than 5 years,Yes,1,1,0,2,2
+646,646,Male,1,United States,Single,I live with others,No job,No,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+647,647,Female,1,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,4-5 Hours,2-4 years,No,0,2,1,0,2
+648,648,Male,1,United States,Single,I live with others,No job,No,Low,Yes,Yes,2-3 Hours,2-4 years,Yes,0,1,0,1,1
+649,649,Female,2,United States,Single,I live with others,Job,Regularly,Low,Yes,No,Less than 1 Hour,More than 5 years,Yes,1,1,1,1,1
+650,650,Male,3,Canada,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+651,651,Female,0,United States,Relationship,I live with others,No job,No,Medium,No,No,4-5 Hours,More than 5 years,Yes,0,0,1,1,2
+652,652,Male,2,Other,Single,I live with others,Job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,1,1,1,0
+653,653,Female,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,No,1,2,2,1,2
+654,654,Female,2,Germany,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,2,1,2
+655,655,Female,1,Other,Single,I live with others,Job,Regularly,High,No,No,Less than 1 Hour,More than 5 years,Yes,2,1,2,1,1
+656,656,Other,0,Germany,Single,I live with others,No job,No,Medium,Yes,No,Less than 1 Hour,2-4 years,No,0,0,0,2,2
+657,657,Male,2,Canada,Single,I live with others,Job,Regularly,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,0,0,2,1
+658,658,Male,1,United States,Relationship,I live alone,No job,Regularly,Medium,No,No,2-3 Hours,Less than 1 year,Yes,1,2,1,0,2
+659,659,Male,2,Brazil,Single,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,1,2
+660,660,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,2,1,1,1
+661,661,Male,2,Canada,Relationship,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,1,1,2,2
+662,662,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,1
+663,663,Male,0,Other,Single,I live with others,No job,No,High,No,No,More than 6 Hours,2-4 years,No,0,2,1,1,2
+664,664,Male,2,Other,Relationship,I live with others,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,0,2,2,0,2
+665,665,Male,1,United States,Single,I live with others,Job,Regularly,Low,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,0,1
+666,666,Male,3,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,1,1,2,1,2
+667,667,Male,0,United States,Single,I live with others,Job,Regularly,High,No,No,4-5 Hours,2-4 years,Yes,0,1,1,0,2
+668,668,Male,1,Other,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,2-4 years,No,0,1,1,2,1
+669,669,Female,2,Brazil,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,Less than 1 year,No,0,2,2,0,2
+670,670,Female,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,No,0,2,1,0,2
+671,671,Male,1,Other,Single,I live with others,Job,Sometimes,High,No,Yes,2-3 Hours,2-4 years,Yes,2,0,0,0,1
+672,672,Male,0,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,2-4 years,Yes,1,1,1,1,1
+673,673,Male,0,Other,Single,I live with others,No job,Regularly,High,No,No,2-3 Hours,2-4 years,No,1,1,1,1,0
+674,674,Male,1,United Kingdom,Single,I live with others,No job,Sometimes,Medium,No,Yes,2-3 Hours,2-4 years,Yes,1,1,1,1,2
+675,675,Male,1,Germany,Single,I live with others,No job,No,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,0,2,0,0,2
+676,676,Male,1,United States,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,1,1,2
+677,677,Male,3,Other,Relationship,I live with others,No job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,0,2,1,1,1
+678,678,Male,0,Australia,Single,I live with others,No job,Regularly,High,No,No,Less than 1 Hour,More than 5 years,No,1,1,1,1,1
+679,679,Male,2,United States,Relationship,I live with others,Job,Sometimes,Low,No,Yes,2-3 Hours,More than 5 years,Yes,2,1,1,1,2
+680,680,Male,1,Other,Single,I live with others,No job,No,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,0,0,1
+681,681,Male,0,Other,Single,I live with others,No job,Regularly,Medium,No,No,4-5 Hours,2-4 years,Yes,0,2,0,1,0
+682,682,Male,0,Other,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,Less than 1 year,Yes,0,1,1,0,1
+683,683,Male,1,Other,Single,I live with others,No job,Sometimes,Medium,No,No,4-5 Hours,2-4 years,Yes,1,1,1,1,1
+684,684,Male,1,Germany,Single,I live with others,No job,No,Low,No,No,More than 6 Hours,2-4 years,No,0,1,1,2,1
+685,685,Female,1,United States,Single,I live with others,No job,Sometimes,High,No,No,4-5 Hours,More than 5 years,Yes,0,2,2,2,1
+686,686,Male,1,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,4-5 Hours,2-4 years,Yes,1,1,1,2,1
+687,687,Male,1,Other,Relationship,I live with others,No job,Sometimes,Medium,Yes,Yes,2-3 Hours,Less than 1 year,No,1,1,0,1,2
+688,688,Female,2,United Kingdom,Single,I live with others,Job,No,Low,No,Yes,More than 6 Hours,More than 5 years,Yes,0,2,1,2,1
+689,689,Male,0,United States,Single,I live with others,No job,Regularly,Medium,No,No,Less than 1 Hour,2-4 years,Yes,1,1,1,1,2
+690,690,Male,0,Other,Relationship,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,Less than 1 year,Yes,0,2,0,2,2
+691,691,Male,1,Other,Single,I live with others,No job,Sometimes,High,No,No,Less than 1 Hour,2-4 years,No,1,1,1,2,1
+692,692,Female,2,Other,Relationship,I live with others,No job,Regularly,High,No,Yes,2-3 Hours,2-4 years,Yes,2,1,1,1,2
+693,693,Female,1,Italy,Relationship,I live with others,Job,Regularly,Medium,Yes,Yes,Less than 1 Hour,More than 5 years,No,2,2,1,1,2
+694,694,Female,2,Other,Single,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,Yes,1,2,1,1,1
+695,695,Female,3,United States,Relationship,I live with others,Job,Sometimes,Medium,No,Yes,2-3 Hours,More than 5 years,No,1,1,1,1,2
+696,696,Female,1,Italy,Single,I live with others,No job,Regularly,Low,No,Yes,Less than 1 Hour,More than 5 years,No,2,2,0,0,1
+697,697,Female,2,Italy,Relationship,I live with others,Job,Regularly,Low,Yes,Yes,2-3 Hours,More than 5 years,No,2,2,2,0,2
+698,698,Female,2,Italy,Single,I live with others,No job,No,Medium,No,No,2-3 Hours,More than 5 years,No,2,2,2,2,1
+699,699,Female,2,Other,Relationship,I live with others,No job,Regularly,Medium,No,Yes,Less than 1 Hour,2-4 years,Yes,2,2,2,0,1
+700,700,Female,1,Philippines,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,1,1,1,1,1
+701,701,Female,2,Italy,Relationship,I live with others,Job,Sometimes,Low,Yes,Yes,Less than 1 Hour,More than 5 years,No,1,1,0,1,1
+702,702,Female,2,Italy,Relationship,I live with others,No job,No,Low,No,Yes,Less than 1 Hour,2-4 years,No,1,0,1,1,2
+703,703,Female,1,Other,Relationship,I live with others,Job,No,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,2,2,1,2,2
+704,704,Female,2,United States,Single,I live with others,Job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,2,2,0
+705,705,Female,3,Other,Single,I live with others,Job,Regularly,Medium,No,Yes,Less than 1 Hour,More than 5 years,No,0,1,0,2,1
+706,706,Female,2,Other,Relationship,I live with others,No job,No,Low,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+707,707,Female,3,United States,Single,I live with others,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,0,2,1,1
+708,708,Female,1,Canada,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,Yes,0,1,2,1,2
+709,709,Female,1,United States,Single,I live with others,Job,No,Low,Yes,Yes,2-3 Hours,More than 5 years,Yes,0,1,0,2,2
+710,710,Female,0,India,Single,I live with others,No job,Sometimes,High,No,No,2-3 Hours,2-4 years,No,0,1,0,2,1
+711,711,Female,3,United States,Relationship,I live with others,Job,Regularly,Medium,No,No,Less than 1 Hour,More than 5 years,Yes,0,1,2,1,1
+712,712,Female,1,Other,Single,I live alone,Job,No,Medium,No,No,2-3 Hours,2-4 years,No,0,2,1,1,2
+713,713,Female,3,United States,Relationship,I live with others,Job,No,Medium,No,No,2-3 Hours,More than 5 years,Yes,0,1,1,2,2
+714,714,Female,1,Italy,Relationship,I live with others,No job,Regularly,Medium,Yes,No,4-5 Hours,2-4 years,Yes,2,1,1,1,0
+715,715,Female,1,Italy,Single,I live with others,No job,Regularly,Medium,No,Yes,2-3 Hours,More than 5 years,Yes,0,2,2,1,2
+716,716,Female,2,United States,Single,I live with others,Job,Regularly,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,1,2,2,2
+717,717,Female,3,Canada,Relationship,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,2,2,1,0
+718,718,Female,1,Italy,Relationship,I live alone,No job,Sometimes,Medium,No,Yes,Less than 1 Hour,2-4 years,No,0,2,1,2,1
+719,719,Female,2,Other,Single,I live with others,Job,Regularly,Medium,No,No,More than 6 Hours,More than 5 years,No,2,1,1,2,2
+720,720,Female,2,Brazil,Single,I live with others,Job,No,Low,No,No,2-3 Hours,2-4 years,No,0,1,1,0,2
+721,721,Female,0,Germany,Single,I live with others,No job,Sometimes,Medium,No,No,More than 6 Hours,Less than 1 year,Yes,1,1,1,2,2
+722,722,Female,1,Other,Single,I live alone,No job,Sometimes,Medium,No,No,2-3 Hours,2-4 years,No,0,0,1,1,2
+723,723,Female,1,Other,Single,I live with others,Job,No,Medium,No,No,More than 6 Hours,2-4 years,Yes,0,1,0,2,1
+724,724,Female,1,Australia,Single,I live alone,Job,Regularly,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,0,1,1,2
+725,725,Female,2,Other,Relationship,I live with others,Job,Regularly,Medium,No,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+726,726,Female,1,Other,Single,I live alone,No job,Sometimes,Medium,No,Yes,More than 6 Hours,2-4 years,Yes,1,2,1,1,1
+727,727,Female,2,United States,Relationship,I live alone,No job,No,Low,No,No,2-3 Hours,More than 5 years,Yes,0,0,2,2,2
+728,728,Female,2,Italy,Relationship,I live with others,No job,No,Medium,No,No,Less than 1 Hour,More than 5 years,No,1,1,0,2,2
+729,729,Female,1,Philippines,Single,I live with others,No job,Sometimes,Low,No,Yes,Less than 1 Hour,2-4 years,No,0,0,1,1,2
+730,730,Female,0,Italy,Single,I live with others,No job,No,Medium,No,Yes,2-3 Hours,2-4 years,No,0,1,1,2,1
+731,731,Female,1,Other,Single,I live alone,No job,Sometimes,High,Yes,Yes,2-3 Hours,2-4 years,Yes,0,2,1,2,2
+732,732,Female,1,Other,Relationship,I live with others,No job,Sometimes,Medium,No,No,2-3 Hours,More than 5 years,Yes,1,1,0,2,1
+733,733,Female,0,Other,Single,I live with others,No job,No,Low,No,No,4-5 Hours,2-4 years,No,0,2,2,1,1
+734,734,Female,1,Other,Single,I live with others,No job,No,High,No,No,2-3 Hours,2-4 years,Yes,1,2,0,2,1
+735,735,Female,2,Other,Single,I live with others,Job,Sometimes,Medium,No,Yes,4-5 Hours,More than 5 years,Yes,1,0,1,2,2
+736,736,Female,3,Canada,Relationship,I live with others,No job,Regularly,Medium,No,No,2-3 Hours,2-4 years,Yes,2,1,2,1,1
+737,737,Female,2,Other,Single,I live with others,No job,Sometimes,Low,No,No,Less than 1 Hour,2-4 years,No,0,1,1,2,2
+738,738,Female,1,India,Relationship,I live with others,No job,Regularly,Medium,Yes,Yes,2-3 Hours,2-4 years,Yes,0,0,2,2,2
