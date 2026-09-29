@@ -2,6 +2,7 @@
 
 Repository for the paper "All of Me": Mining Users’ Attributes from their Public Spotify Playlists. 
 
+*Data use terms.* The data are released under CC BY-NC 4.0 for non-commercial research. Please cite the paper. Any attempt to re-identify participants or link the data to Spotify accounts is not permitted.
 
 Citation:
 
